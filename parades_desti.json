@@ -1,0 +1,9197 @@
+{
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 1,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 2,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.199768, 41.510473 ]
+			},
+			"properties" : {
+				"ID" : 3,
+				"stop_name" : "La Llagosta",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 4,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 5,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.979093, 41.278755 ]
+			},
+			"properties" : {
+				"ID" : 6,
+				"stop_name" : "Castelldefels",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 7,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.979093, 41.278755 ]
+			},
+			"properties" : {
+				"ID" : 8,
+				"stop_name" : "Castelldefels",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 9,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.100711, 41.364075 ]
+			},
+			"properties" : {
+				"ID" : 10,
+				"stop_name" : "L'Hospitalet de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 11,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0277, 41.309407 ]
+			},
+			"properties" : {
+				"ID" : 12,
+				"stop_name" : "Viladecans",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 13,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.100711, 41.364075 ]
+			},
+			"properties" : {
+				"ID" : 14,
+				"stop_name" : "L'Hospitalet de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 15,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 16,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 17,
+				"stop_name" : "Mataró",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 18,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 19,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 20,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 21,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 22,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 23,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1880935, 41.484238 ]
+			},
+			"properties" : {
+				"ID" : 24,
+				"stop_name" : "Montcada i Reixac",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 25,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.187148, 41.409188 ]
+			},
+			"properties" : {
+				"ID" : 26,
+				"stop_name" : "El Clot",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 27,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 28,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.115482, 41.497107 ]
+			},
+			"properties" : {
+				"ID" : 29,
+				"stop_name" : "Cerdanyola Universitat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 30,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.549343, 41.5777 ]
+			},
+			"properties" : {
+				"ID" : 31,
+				"stop_name" : "Arenys de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1803793, 41.4616188 ]
+			},
+			"properties" : {
+				"ID" : 32,
+				"stop_name" : "Torre del Baró | Vallbona",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 33,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 34,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1803793, 41.4616188 ]
+			},
+			"properties" : {
+				"ID" : 35,
+				"stop_name" : "Torre del Baró | Vallbona",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 36,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1803793, 41.4616188 ]
+			},
+			"properties" : {
+				"ID" : 37,
+				"stop_name" : "Torre del Baró | Vallbona",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 38,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9676144, 41.4734723 ]
+			},
+			"properties" : {
+				"ID" : 39,
+				"stop_name" : "Castellbisbal",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1880935, 41.484238 ]
+			},
+			"properties" : {
+				"ID" : 40,
+				"stop_name" : "Montcada i Reixac",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 41,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9676144, 41.4734723 ]
+			},
+			"properties" : {
+				"ID" : 42,
+				"stop_name" : "Castellbisbal",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.100711, 41.364075 ]
+			},
+			"properties" : {
+				"ID" : 43,
+				"stop_name" : "L'Hospitalet de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 44,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.187115, 41.421958 ]
+			},
+			"properties" : {
+				"ID" : 45,
+				"stop_name" : "La Sagrera Meridiana",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1880935, 41.484238 ]
+			},
+			"properties" : {
+				"ID" : 46,
+				"stop_name" : "Montcada i Reixac",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 47,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 48,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.193097, 41.436083 ]
+			},
+			"properties" : {
+				"ID" : 49,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 50,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 51,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 52,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 53,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 54,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 55,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.187115, 41.421958 ]
+			},
+			"properties" : {
+				"ID" : 56,
+				"stop_name" : "La Sagrera Meridiana",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 57,
+				"stop_name" : "Mataró",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0277, 41.309407 ]
+			},
+			"properties" : {
+				"ID" : 58,
+				"stop_name" : "Viladecans",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 59,
+				"stop_name" : "El Clot",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.401591, 41.506858 ]
+			},
+			"properties" : {
+				"ID" : 60,
+				"stop_name" : "Cabrera de Mar - Vilassar de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.187148, 41.409188 ]
+			},
+			"properties" : {
+				"ID" : 61,
+				"stop_name" : "El Clot",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 62,
+				"stop_name" : "El Clot",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 63,
+				"stop_name" : "El Clot",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.741529, 41.641776 ]
+			},
+			"properties" : {
+				"ID" : 64,
+				"stop_name" : "Malgrat de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.230761, 41.424665 ]
+			},
+			"properties" : {
+				"ID" : 65,
+				"stop_name" : "Sant Adrià de Besòs",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 66,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248893, 41.445921 ]
+			},
+			"properties" : {
+				"ID" : 67,
+				"stop_name" : "Badalona",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248893, 41.445921 ]
+			},
+			"properties" : {
+				"ID" : 68,
+				"stop_name" : "Badalona",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.070566, 41.357469 ]
+			},
+			"properties" : {
+				"ID" : 69,
+				"stop_name" : "Cornellà",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 70,
+				"stop_name" : "Mataró",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248893, 41.445921 ]
+			},
+			"properties" : {
+				"ID" : 71,
+				"stop_name" : "Badalona",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 72,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 73,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.286755, 41.468822 ]
+			},
+			"properties" : {
+				"ID" : 74,
+				"stop_name" : "Montgat Nord",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 75,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 76,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.979093, 41.278755 ]
+			},
+			"properties" : {
+				"ID" : 77,
+				"stop_name" : "Castelldefels",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.979093, 41.278755 ]
+			},
+			"properties" : {
+				"ID" : 78,
+				"stop_name" : "Castelldefels",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 79,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 80,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.010444, 41.303417 ]
+			},
+			"properties" : {
+				"ID" : 81,
+				"stop_name" : "Gavà",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.010444, 41.303417 ]
+			},
+			"properties" : {
+				"ID" : 82,
+				"stop_name" : "Gavà",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 83,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.010444, 41.303417 ]
+			},
+			"properties" : {
+				"ID" : 84,
+				"stop_name" : "Gavà",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.010444, 41.303417 ]
+			},
+			"properties" : {
+				"ID" : 85,
+				"stop_name" : "Gavà",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.010444, 41.303417 ]
+			},
+			"properties" : {
+				"ID" : 86,
+				"stop_name" : "Gavà",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.039406, 41.567515 ]
+			},
+			"properties" : {
+				"ID" : 87,
+				"stop_name" : "Terrassa Est",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 88,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.089908, 41.330626 ]
+			},
+			"properties" : {
+				"ID" : 89,
+				"stop_name" : "El Prat de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.010444, 41.303417 ]
+			},
+			"properties" : {
+				"ID" : 90,
+				"stop_name" : "Gavà",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 91,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0277, 41.309407 ]
+			},
+			"properties" : {
+				"ID" : 92,
+				"stop_name" : "Viladecans",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 93,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 94,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.070566, 41.357469 ]
+			},
+			"properties" : {
+				"ID" : 95,
+				"stop_name" : "Cornellà",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 96,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 97,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 98,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 99,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 100,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 101,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 102,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 103,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 104,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 105,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 106,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 107,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 108,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 109,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 110,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 111,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.606431, 41.192562 ]
+			},
+			"properties" : {
+				"ID" : 112,
+				"stop_name" : "Segur de Calafell",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.100711, 41.364075 ]
+			},
+			"properties" : {
+				"ID" : 113,
+				"stop_name" : "L'Hospitalet de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.272098, 41.463019 ]
+			},
+			"properties" : {
+				"ID" : 114,
+				"stop_name" : "Montgat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.100711, 41.364075 ]
+			},
+			"properties" : {
+				"ID" : 115,
+				"stop_name" : "L'Hospitalet de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 116,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.100711, 41.364075 ]
+			},
+			"properties" : {
+				"ID" : 117,
+				"stop_name" : "L'Hospitalet de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.002647, 41.435393 ]
+			},
+			"properties" : {
+				"ID" : 118,
+				"stop_name" : "El Papiol",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.070566, 41.357469 ]
+			},
+			"properties" : {
+				"ID" : 119,
+				"stop_name" : "Cornellà",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.002647, 41.435393 ]
+			},
+			"properties" : {
+				"ID" : 120,
+				"stop_name" : "El Papiol",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.3922806 ]
+			},
+			"properties" : {
+				"ID" : 121,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 122,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 123,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 124,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 125,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 126,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 127,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 128,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 129,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 130,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 131,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 132,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 133,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 134,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 135,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.010444, 41.303417 ]
+			},
+			"properties" : {
+				"ID" : 136,
+				"stop_name" : "Gavà",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9676144, 41.4734723 ]
+			},
+			"properties" : {
+				"ID" : 137,
+				"stop_name" : "Castellbisbal",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 138,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1880935, 41.484238 ]
+			},
+			"properties" : {
+				"ID" : 139,
+				"stop_name" : "Montcada i Reixac",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 140,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.181941, 41.496841 ]
+			},
+			"properties" : {
+				"ID" : 141,
+				"stop_name" : "Montcada Ripollet",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 142,
+				"stop_name" : "El Clot",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1880935, 41.484238 ]
+			},
+			"properties" : {
+				"ID" : 143,
+				"stop_name" : "Montcada i Reixac",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 144,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 145,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 146,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 147,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 148,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.3845367 ]
+			},
+			"properties" : {
+				"ID" : 149,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.118535, 41.513615 ]
+			},
+			"properties" : {
+				"ID" : 150,
+				"stop_name" : "Barberà del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 151,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.118535, 41.513615 ]
+			},
+			"properties" : {
+				"ID" : 152,
+				"stop_name" : "Barberà del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 153,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.271625, 41.720987 ]
+			},
+			"properties" : {
+				"ID" : 154,
+				"stop_name" : "Figaró",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 155,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.09591, 41.562401 ]
+			},
+			"properties" : {
+				"ID" : 156,
+				"stop_name" : "Sabadell Nord",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 157,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.118535, 41.513615 ]
+			},
+			"properties" : {
+				"ID" : 158,
+				"stop_name" : "Barberà del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 159,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 160,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 161,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 162,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 163,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 164,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 165,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.118535, 41.513615 ]
+			},
+			"properties" : {
+				"ID" : 166,
+				"stop_name" : "Barberà del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.537743, 41.221184 ]
+			},
+			"properties" : {
+				"ID" : 167,
+				"stop_name" : "El Vendrell",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.703112, 41.344811 ]
+			},
+			"properties" : {
+				"ID" : 168,
+				"stop_name" : "Vilafranca del Penedès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.060147, 41.36854 ]
+			},
+			"properties" : {
+				"ID" : 169,
+				"stop_name" : "Sant Joan Despí",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.703112, 41.344811 ]
+			},
+			"properties" : {
+				"ID" : 170,
+				"stop_name" : "Vilafranca del Penedès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.537743, 41.221184 ]
+			},
+			"properties" : {
+				"ID" : 171,
+				"stop_name" : "El Vendrell",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.703112, 41.344811 ]
+			},
+			"properties" : {
+				"ID" : 172,
+				"stop_name" : "Vilafranca del Penedès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.794639, 41.420588 ]
+			},
+			"properties" : {
+				"ID" : 173,
+				"stop_name" : "Sant Sadurní d'Anoia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.703112, 41.344811 ]
+			},
+			"properties" : {
+				"ID" : 174,
+				"stop_name" : "Vilafranca del Penedès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 175,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.703112, 41.344811 ]
+			},
+			"properties" : {
+				"ID" : 176,
+				"stop_name" : "Vilafranca del Penedès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 177,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.187115, 41.421958 ]
+			},
+			"properties" : {
+				"ID" : 178,
+				"stop_name" : "La Sagrera Meridiana",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 179,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.537743, 41.221184 ]
+			},
+			"properties" : {
+				"ID" : 180,
+				"stop_name" : "El Vendrell",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.768182, 41.395657 ]
+			},
+			"properties" : {
+				"ID" : 181,
+				"stop_name" : "Lavern - Subirats",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.60012, 41.273025 ]
+			},
+			"properties" : {
+				"ID" : 182,
+				"stop_name" : "L'Arboç",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.62372, 41.7389183 ]
+			},
+			"properties" : {
+				"ID" : 183,
+				"stop_name" : "Aguilar de Segarra",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.768182, 41.395657 ]
+			},
+			"properties" : {
+				"ID" : 184,
+				"stop_name" : "Lavern - Subirats",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 185,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 186,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 187,
+				"stop_name" : "Sitges",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 188,
+				"stop_name" : "El Clot",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 189,
+				"stop_name" : "Sitges",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 190,
+				"stop_name" : "Sitges",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 191,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 192,
+				"stop_name" : "Sitges",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.979093, 41.278755 ]
+			},
+			"properties" : {
+				"ID" : 193,
+				"stop_name" : "Castelldefels",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.902357, 41.253964 ]
+			},
+			"properties" : {
+				"ID" : 194,
+				"stop_name" : "Garraf",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.3922806 ]
+			},
+			"properties" : {
+				"ID" : 195,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 196,
+				"stop_name" : "Sitges",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 197,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 198,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 199,
+				"stop_name" : "Sitges",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1154943, 41.3550465 ]
+			},
+			"properties" : {
+				"ID" : 200,
+				"stop_name" : "Bellvitge | Gornal",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 201,
+				"stop_name" : "Sitges",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 202,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 203,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 204,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 205,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.253214, 41.1116257 ]
+			},
+			"properties" : {
+				"ID" : 206,
+				"stop_name" : "Tarragona",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.220389 ]
+			},
+			"properties" : {
+				"ID" : 207,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 208,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 209,
+				"stop_name" : "Sitges",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.220389 ]
+			},
+			"properties" : {
+				"ID" : 210,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.3922806 ]
+			},
+			"properties" : {
+				"ID" : 211,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 212,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 213,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 214,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 215,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0277, 41.309407 ]
+			},
+			"properties" : {
+				"ID" : 216,
+				"stop_name" : "Viladecans",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 217,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.4551443, 41.1863136 ]
+			},
+			"properties" : {
+				"ID" : 218,
+				"stop_name" : "Roda de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 219,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 220,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 221,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.631876, 41.195036 ]
+			},
+			"properties" : {
+				"ID" : 222,
+				"stop_name" : "Cunit",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 223,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 224,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 225,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.817006, 41.979303 ]
+			},
+			"properties" : {
+				"ID" : 226,
+				"stop_name" : "Girona",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 227,
+				"stop_name" : "Mataró",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 228,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 229,
+				"stop_name" : "Mataró",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.319648, 41.479051 ]
+			},
+			"properties" : {
+				"ID" : 230,
+				"stop_name" : "Ocata",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.319648, 41.479051 ]
+			},
+			"properties" : {
+				"ID" : 231,
+				"stop_name" : "Ocata",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 232,
+				"stop_name" : "Mataró",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.401591, 41.506858 ]
+			},
+			"properties" : {
+				"ID" : 233,
+				"stop_name" : "Cabrera de Mar - Vilassar de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.310702, 41.477136 ]
+			},
+			"properties" : {
+				"ID" : 234,
+				"stop_name" : "El Masnou",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 235,
+				"stop_name" : "Mataró",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.310702, 41.477136 ]
+			},
+			"properties" : {
+				"ID" : 236,
+				"stop_name" : "El Masnou",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.3845367 ]
+			},
+			"properties" : {
+				"ID" : 237,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.389473, 41.500454 ]
+			},
+			"properties" : {
+				"ID" : 238,
+				"stop_name" : "Vilassar de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 239,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 240,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 241,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 242,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.319648, 41.479051 ]
+			},
+			"properties" : {
+				"ID" : 243,
+				"stop_name" : "Ocata",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.230761, 41.424665 ]
+			},
+			"properties" : {
+				"ID" : 244,
+				"stop_name" : "Sant Adrià de Besòs",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.310702, 41.477136 ]
+			},
+			"properties" : {
+				"ID" : 245,
+				"stop_name" : "El Masnou",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.3845367 ]
+			},
+			"properties" : {
+				"ID" : 246,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 247,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.389473, 41.500454 ]
+			},
+			"properties" : {
+				"ID" : 248,
+				"stop_name" : "Vilassar de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 249,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 250,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 251,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 252,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 253,
+				"stop_name" : "Mataró",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 254,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 255,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 256,
+				"stop_name" : "Mataró",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 257,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 258,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.319648, 41.479051 ]
+			},
+			"properties" : {
+				"ID" : 259,
+				"stop_name" : "Ocata",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.741529, 41.641776 ]
+			},
+			"properties" : {
+				"ID" : 260,
+				"stop_name" : "Malgrat de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.741529, 41.641776 ]
+			},
+			"properties" : {
+				"ID" : 261,
+				"stop_name" : "Malgrat de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.58121, 41.586716 ]
+			},
+			"properties" : {
+				"ID" : 262,
+				"stop_name" : "Canet de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.8170061, 41.9793015 ]
+			},
+			"properties" : {
+				"ID" : 263,
+				"stop_name" : "Girona",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.693517, 41.622396 ]
+			},
+			"properties" : {
+				"ID" : 264,
+				"stop_name" : "Pineda de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 265,
+				"stop_name" : "El Clot",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.665716, 41.614589 ]
+			},
+			"properties" : {
+				"ID" : 266,
+				"stop_name" : "Calella",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.665716, 41.614589 ]
+			},
+			"properties" : {
+				"ID" : 267,
+				"stop_name" : "Calella",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.741529, 41.641776 ]
+			},
+			"properties" : {
+				"ID" : 268,
+				"stop_name" : "Malgrat de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 269,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.498462, 41.555722 ]
+			},
+			"properties" : {
+				"ID" : 270,
+				"stop_name" : "Sant Andreu de Llavaneres",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.624584, 41.601811 ]
+			},
+			"properties" : {
+				"ID" : 271,
+				"stop_name" : "Sant Pol de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.693517, 41.622396 ]
+			},
+			"properties" : {
+				"ID" : 272,
+				"stop_name" : "Pineda de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.741529, 41.641776 ]
+			},
+			"properties" : {
+				"ID" : 273,
+				"stop_name" : "Malgrat de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 274,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.58121, 41.586716 ]
+			},
+			"properties" : {
+				"ID" : 275,
+				"stop_name" : "Canet de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.665716, 41.614589 ]
+			},
+			"properties" : {
+				"ID" : 276,
+				"stop_name" : "Calella",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 277,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.498462, 41.555722 ]
+			},
+			"properties" : {
+				"ID" : 278,
+				"stop_name" : "Sant Andreu de Llavaneres",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 279,
+				"stop_name" : "Mataró",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.549343, 41.5777 ]
+			},
+			"properties" : {
+				"ID" : 280,
+				"stop_name" : "Arenys de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.665716, 41.614589 ]
+			},
+			"properties" : {
+				"ID" : 281,
+				"stop_name" : "Calella",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.665716, 41.614589 ]
+			},
+			"properties" : {
+				"ID" : 282,
+				"stop_name" : "Calella",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.693517, 41.622396 ]
+			},
+			"properties" : {
+				"ID" : 283,
+				"stop_name" : "Pineda de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 284,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.549343, 41.5777 ]
+			},
+			"properties" : {
+				"ID" : 285,
+				"stop_name" : "Arenys de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.58121, 41.586716 ]
+			},
+			"properties" : {
+				"ID" : 286,
+				"stop_name" : "Canet de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.693517, 41.622396 ]
+			},
+			"properties" : {
+				"ID" : 287,
+				"stop_name" : "Pineda de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.58121, 41.586716 ]
+			},
+			"properties" : {
+				"ID" : 288,
+				"stop_name" : "Canet de Mar",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.079731, 41.480973 ]
+			},
+			"properties" : {
+				"ID" : 289,
+				"stop_name" : "Sant Cugat Coll Favà",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.3922806 ]
+			},
+			"properties" : {
+				"ID" : 290,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.09591, 41.562401 ]
+			},
+			"properties" : {
+				"ID" : 291,
+				"stop_name" : "Sabadell Nord",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 292,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 293,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 294,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.105395, 41.528716 ]
+			},
+			"properties" : {
+				"ID" : 295,
+				"stop_name" : "Sabadell Sud",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 296,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 297,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.09591, 41.562401 ]
+			},
+			"properties" : {
+				"ID" : 298,
+				"stop_name" : "Sabadell Nord",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 299,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 300,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.105395, 41.528716 ]
+			},
+			"properties" : {
+				"ID" : 301,
+				"stop_name" : "Sabadell Sud",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0142891, 41.5697975 ]
+			},
+			"properties" : {
+				"ID" : 302,
+				"stop_name" : "Terrassa Estació del Nord",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.105395, 41.528716 ]
+			},
+			"properties" : {
+				"ID" : 303,
+				"stop_name" : "Sabadell Sud",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.09591, 41.562401 ]
+			},
+			"properties" : {
+				"ID" : 304,
+				"stop_name" : "Sabadell Nord",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 305,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.09591, 41.562401 ]
+			},
+			"properties" : {
+				"ID" : 306,
+				"stop_name" : "Sabadell Nord",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.979093, 41.278755 ]
+			},
+			"properties" : {
+				"ID" : 307,
+				"stop_name" : "Castelldefels",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0142891, 41.5697975 ]
+			},
+			"properties" : {
+				"ID" : 308,
+				"stop_name" : "Terrassa Estació del Nord",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 309,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0142891, 41.5697975 ]
+			},
+			"properties" : {
+				"ID" : 310,
+				"stop_name" : "Terrassa Estació del Nord",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0371, 41.475178 ]
+			},
+			"properties" : {
+				"ID" : 311,
+				"stop_name" : "Rubí Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.09591, 41.562401 ]
+			},
+			"properties" : {
+				"ID" : 312,
+				"stop_name" : "Sabadell Nord",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.039406, 41.567515 ]
+			},
+			"properties" : {
+				"ID" : 313,
+				"stop_name" : "Terrassa Est",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 314,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0142891, 41.5697975 ]
+			},
+			"properties" : {
+				"ID" : 315,
+				"stop_name" : "Terrassa Estació del Nord",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.862649, 41.668851 ]
+			},
+			"properties" : {
+				"ID" : 316,
+				"stop_name" : "Sant Vicenç de Castellet",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.916921, 41.586759 ]
+			},
+			"properties" : {
+				"ID" : 317,
+				"stop_name" : "Vacarisses - Torreblanca",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 318,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.186463, 41.526327 ]
+			},
+			"properties" : {
+				"ID" : 319,
+				"stop_name" : "Santa Perpètua de Mogoda Riera de Caldes",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 320,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.186463, 41.526327 ]
+			},
+			"properties" : {
+				"ID" : 321,
+				"stop_name" : "Santa Perpètua de Mogoda Riera de Caldes",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 322,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.291087, 41.599705 ]
+			},
+			"properties" : {
+				"ID" : 323,
+				"stop_name" : "Granollers Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 324,
+				"stop_name" : "El Clot",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.291087, 41.599705 ]
+			},
+			"properties" : {
+				"ID" : 325,
+				"stop_name" : "Granollers Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.277008, 41.611416 ]
+			},
+			"properties" : {
+				"ID" : 326,
+				"stop_name" : "Granollers - Canovelles",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 327,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.979093, 41.278755 ]
+			},
+			"properties" : {
+				"ID" : 328,
+				"stop_name" : "Castelldefels",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 329,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.206189, 41.536597 ]
+			},
+			"properties" : {
+				"ID" : 330,
+				"stop_name" : "Mollet Santa Rosa",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.199768, 41.510473 ]
+			},
+			"properties" : {
+				"ID" : 331,
+				"stop_name" : "La Llagosta",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.21757, 41.533579 ]
+			},
+			"properties" : {
+				"ID" : 332,
+				"stop_name" : "Mollet - Sant Fost",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 333,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.206189, 41.536597 ]
+			},
+			"properties" : {
+				"ID" : 334,
+				"stop_name" : "Mollet Santa Rosa",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.206189, 41.536597 ]
+			},
+			"properties" : {
+				"ID" : 335,
+				"stop_name" : "Mollet Santa Rosa",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 336,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 337,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.291087, 41.599705 ]
+			},
+			"properties" : {
+				"ID" : 338,
+				"stop_name" : "Granollers Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2910869, 41.5997047 ]
+			},
+			"properties" : {
+				"ID" : 339,
+				"stop_name" : "Granollers Centre",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4905541, 41.6858788 ]
+			},
+			"properties" : {
+				"ID" : 340,
+				"stop_name" : "Sant Celoni",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 341,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.356203, 41.636719 ]
+			},
+			"properties" : {
+				"ID" : 342,
+				"stop_name" : "Cardedeu",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 343,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248904, 41.931034 ]
+			},
+			"properties" : {
+				"ID" : 344,
+				"stop_name" : "Vic",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.288748, 41.684469 ]
+			},
+			"properties" : {
+				"ID" : 345,
+				"stop_name" : "La Garriga",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 346,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 347,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.194315, 41.521686 ]
+			},
+			"properties" : {
+				"ID" : 348,
+				"stop_name" : "Santa Perpètua de Mogoda la Florida",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 349,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2458008, 41.5498745 ]
+			},
+			"properties" : {
+				"ID" : 350,
+				"stop_name" : "Montmeló",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.3922806 ]
+			},
+			"properties" : {
+				"ID" : 351,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2458008, 41.5498745 ]
+			},
+			"properties" : {
+				"ID" : 352,
+				"stop_name" : "Montmeló",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 353,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.295206, 41.629722 ]
+			},
+			"properties" : {
+				"ID" : 354,
+				"stop_name" : "Les Franqueses del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.206189, 41.536597 ]
+			},
+			"properties" : {
+				"ID" : 355,
+				"stop_name" : "Mollet Santa Rosa",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.225992, 41.556292 ]
+			},
+			"properties" : {
+				"ID" : 356,
+				"stop_name" : "Parets del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248904, 41.931034 ]
+			},
+			"properties" : {
+				"ID" : 357,
+				"stop_name" : "Vic",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.295206, 41.629722 ]
+			},
+			"properties" : {
+				"ID" : 358,
+				"stop_name" : "Les Franqueses del Vallès",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 359,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.3922806 ]
+			},
+			"properties" : {
+				"ID" : 360,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.089908, 41.330626 ]
+			},
+			"properties" : {
+				"ID" : 361,
+				"stop_name" : "El Prat de Llobregat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.277008, 41.611416 ]
+			},
+			"properties" : {
+				"ID" : 362,
+				"stop_name" : "Granollers - Canovelles",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 363,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2458008, 41.5498745 ]
+			},
+			"properties" : {
+				"ID" : 364,
+				"stop_name" : "Montmeló",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 365,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.21757, 41.533579 ]
+			},
+			"properties" : {
+				"ID" : 366,
+				"stop_name" : "Mollet - Sant Fost",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.199768, 41.510473 ]
+			},
+			"properties" : {
+				"ID" : 367,
+				"stop_name" : "La Llagosta",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.3845367 ]
+			},
+			"properties" : {
+				"ID" : 368,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.794639, 41.420588 ]
+			},
+			"properties" : {
+				"ID" : 369,
+				"stop_name" : "Sant Sadurní d'Anoia",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.079731, 41.480973 ]
+			},
+			"properties" : {
+				"ID" : 370,
+				"stop_name" : "Sant Cugat Coll Favà",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 371,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.86855, 41.6284 ]
+			},
+			"properties" : {
+				"ID" : 372,
+				"stop_name" : "Castellbell i el Vilar - Monistrol de Montserrat",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.827185, 41.7203941 ]
+			},
+			"properties" : {
+				"ID" : 373,
+				"stop_name" : "Manresa",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248904, 41.931034 ]
+			},
+			"properties" : {
+				"ID" : 374,
+				"stop_name" : "Vic",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.247519, 41.841868 ]
+			},
+			"properties" : {
+				"ID" : 375,
+				"stop_name" : "Balenyà - Tona - Seva",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 376,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 377,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.217712, 42.104825 ]
+			},
+			"properties" : {
+				"ID" : 378,
+				"stop_name" : "Sant Quirze de Besora",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 379,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.222478, 41.799375 ]
+			},
+			"properties" : {
+				"ID" : 380,
+				"stop_name" : "Centelles",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.277008, 41.611416 ]
+			},
+			"properties" : {
+				"ID" : 381,
+				"stop_name" : "Granollers - Canovelles",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.247519, 41.841868 ]
+			},
+			"properties" : {
+				"ID" : 382,
+				"stop_name" : "Balenyà - Tona - Seva",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.09591, 41.562401 ]
+			},
+			"properties" : {
+				"ID" : 383,
+				"stop_name" : "Sabadell Nord",
+				"entitat" : "parada desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 1,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 2,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 3,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.498462, 41.555722 ]
+			},
+			"properties" : {
+				"ID" : 4,
+				"stop_name" : "Sant Andreu de Llavaneres",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.181941, 41.496841 ]
+			},
+			"properties" : {
+				"ID" : 5,
+				"stop_name" : "Montcada Ripollet",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 6,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.979093, 41.278755 ]
+			},
+			"properties" : {
+				"ID" : 7,
+				"stop_name" : "Castelldefels",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 8,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 9,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.187115, 41.421958 ]
+			},
+			"properties" : {
+				"ID" : 10,
+				"stop_name" : "La Sagrera Meridiana",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 11,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 12,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0277, 41.309407 ]
+			},
+			"properties" : {
+				"ID" : 13,
+				"stop_name" : "Viladecans",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 14,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.100711, 41.364075 ]
+			},
+			"properties" : {
+				"ID" : 15,
+				"stop_name" : "L'Hospitalet de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 16,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 17,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 18,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 19,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 20,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 21,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 22,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 23,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 24,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1880935, 41.484238 ]
+			},
+			"properties" : {
+				"ID" : 25,
+				"stop_name" : "Montcada i Reixac",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0277, 41.309407 ]
+			},
+			"properties" : {
+				"ID" : 26,
+				"stop_name" : "Viladecans",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 27,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 28,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 29,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.115482, 41.497107 ]
+			},
+			"properties" : {
+				"ID" : 30,
+				"stop_name" : "Cerdanyola Universitat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1803793, 41.4616188 ]
+			},
+			"properties" : {
+				"ID" : 31,
+				"stop_name" : "Torre del Baró | Vallbona",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 32,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1803793, 41.4616188 ]
+			},
+			"properties" : {
+				"ID" : 33,
+				"stop_name" : "Torre del Baró | Vallbona",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 34,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 35,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1803793, 41.4616188 ]
+			},
+			"properties" : {
+				"ID" : 36,
+				"stop_name" : "Torre del Baró | Vallbona",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 37,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 38,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 39,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1803793, 41.4616188 ]
+			},
+			"properties" : {
+				"ID" : 40,
+				"stop_name" : "Torre del Baró | Vallbona",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.187115, 41.421958 ]
+			},
+			"properties" : {
+				"ID" : 41,
+				"stop_name" : "La Sagrera Meridiana",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 42,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.187115, 41.421958 ]
+			},
+			"properties" : {
+				"ID" : 43,
+				"stop_name" : "La Sagrera Meridiana",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.100711, 41.364075 ]
+			},
+			"properties" : {
+				"ID" : 44,
+				"stop_name" : "L'Hospitalet de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 45,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 46,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1880935, 41.484238 ]
+			},
+			"properties" : {
+				"ID" : 47,
+				"stop_name" : "Montcada i Reixac",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.193097, 41.436083 ]
+			},
+			"properties" : {
+				"ID" : 48,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 49,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 50,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 51,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 52,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 53,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 54,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 55,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 56,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.187115, 41.421958 ]
+			},
+			"properties" : {
+				"ID" : 57,
+				"stop_name" : "La Sagrera Meridiana",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 58,
+				"stop_name" : "El Clot",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0277, 41.309407 ]
+			},
+			"properties" : {
+				"ID" : 59,
+				"stop_name" : "Viladecans",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.187148, 41.409188 ]
+			},
+			"properties" : {
+				"ID" : 60,
+				"stop_name" : "El Clot",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.401591, 41.506858 ]
+			},
+			"properties" : {
+				"ID" : 61,
+				"stop_name" : "Cabrera de Mar - Vilassar de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.979093, 41.278755 ]
+			},
+			"properties" : {
+				"ID" : 62,
+				"stop_name" : "Castelldefels",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0738758, 41.3044167 ]
+			},
+			"properties" : {
+				"ID" : 63,
+				"stop_name" : "Aeroport",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.230761, 41.424665 ]
+			},
+			"properties" : {
+				"ID" : 64,
+				"stop_name" : "Sant Adrià de Besòs",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.741529, 41.641776 ]
+			},
+			"properties" : {
+				"ID" : 65,
+				"stop_name" : "Malgrat de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248893, 41.445921 ]
+			},
+			"properties" : {
+				"ID" : 66,
+				"stop_name" : "Badalona",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 67,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 68,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248893, 41.445921 ]
+			},
+			"properties" : {
+				"ID" : 69,
+				"stop_name" : "Badalona",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248893, 41.445921 ]
+			},
+			"properties" : {
+				"ID" : 70,
+				"stop_name" : "Badalona",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 71,
+				"stop_name" : "Mataró",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.291087, 41.599705 ]
+			},
+			"properties" : {
+				"ID" : 72,
+				"stop_name" : "Granollers Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.286755, 41.468822 ]
+			},
+			"properties" : {
+				"ID" : 73,
+				"stop_name" : "Montgat Nord",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 74,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.272098, 41.463019 ]
+			},
+			"properties" : {
+				"ID" : 75,
+				"stop_name" : "Montgat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.957181, 41.266842 ]
+			},
+			"properties" : {
+				"ID" : 76,
+				"stop_name" : "Platja de Castelldefels",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.089908, 41.330626 ]
+			},
+			"properties" : {
+				"ID" : 77,
+				"stop_name" : "El Prat de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 78,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.979093, 41.278755 ]
+			},
+			"properties" : {
+				"ID" : 79,
+				"stop_name" : "Castelldefels",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.010444, 41.303417 ]
+			},
+			"properties" : {
+				"ID" : 80,
+				"stop_name" : "Gavà",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 81,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 82,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.010444, 41.303417 ]
+			},
+			"properties" : {
+				"ID" : 83,
+				"stop_name" : "Gavà",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 84,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 85,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.3922806 ]
+			},
+			"properties" : {
+				"ID" : 86,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.010444, 41.303417 ]
+			},
+			"properties" : {
+				"ID" : 87,
+				"stop_name" : "Gavà",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.089908, 41.330626 ]
+			},
+			"properties" : {
+				"ID" : 88,
+				"stop_name" : "El Prat de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 89,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 90,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0277, 41.309407 ]
+			},
+			"properties" : {
+				"ID" : 91,
+				"stop_name" : "Viladecans",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 92,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248893, 41.445921 ]
+			},
+			"properties" : {
+				"ID" : 93,
+				"stop_name" : "Badalona",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.070566, 41.357469 ]
+			},
+			"properties" : {
+				"ID" : 94,
+				"stop_name" : "Cornellà",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 95,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 96,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 97,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 98,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.3922806 ]
+			},
+			"properties" : {
+				"ID" : 99,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 100,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 101,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 102,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 103,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 104,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 105,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 106,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 107,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 108,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 109,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 110,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 111,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.631876, 41.195036 ]
+			},
+			"properties" : {
+				"ID" : 112,
+				"stop_name" : "Cunit",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.089908, 41.330626 ]
+			},
+			"properties" : {
+				"ID" : 113,
+				"stop_name" : "El Prat de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.100711, 41.364075 ]
+			},
+			"properties" : {
+				"ID" : 114,
+				"stop_name" : "L'Hospitalet de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.272098, 41.463019 ]
+			},
+			"properties" : {
+				"ID" : 115,
+				"stop_name" : "Montgat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.100711, 41.364075 ]
+			},
+			"properties" : {
+				"ID" : 116,
+				"stop_name" : "L'Hospitalet de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 117,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 118,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.002647, 41.435393 ]
+			},
+			"properties" : {
+				"ID" : 119,
+				"stop_name" : "El Papiol",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.070566, 41.357469 ]
+			},
+			"properties" : {
+				"ID" : 120,
+				"stop_name" : "Cornellà",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 121,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 122,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 123,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 124,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 125,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 126,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 127,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 128,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 129,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 130,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 131,
+				"stop_name" : "Mataró",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.02057, 41.409844 ]
+			},
+			"properties" : {
+				"ID" : 132,
+				"stop_name" : "Molins de Rei",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 133,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.047834, 41.382935 ]
+			},
+			"properties" : {
+				"ID" : 134,
+				"stop_name" : "Sant Feliu de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9676144, 41.4734723 ]
+			},
+			"properties" : {
+				"ID" : 135,
+				"stop_name" : "Castellbisbal",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 136,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.193097, 41.436083 ]
+			},
+			"properties" : {
+				"ID" : 137,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1880935, 41.484238 ]
+			},
+			"properties" : {
+				"ID" : 138,
+				"stop_name" : "Montcada i Reixac",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 139,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.181941, 41.496841 ]
+			},
+			"properties" : {
+				"ID" : 140,
+				"stop_name" : "Montcada Ripollet",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.37952 ]
+			},
+			"properties" : {
+				"ID" : 141,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1880935, 41.484238 ]
+			},
+			"properties" : {
+				"ID" : 142,
+				"stop_name" : "Montcada i Reixac",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 143,
+				"stop_name" : "El Clot",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 144,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 145,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 146,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 147,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.118535, 41.513615 ]
+			},
+			"properties" : {
+				"ID" : 148,
+				"stop_name" : "Barberà del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.118535, 41.513615 ]
+			},
+			"properties" : {
+				"ID" : 149,
+				"stop_name" : "Barberà del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.3845367 ]
+			},
+			"properties" : {
+				"ID" : 150,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.118535, 41.513615 ]
+			},
+			"properties" : {
+				"ID" : 151,
+				"stop_name" : "Barberà del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 152,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.118535, 41.513615 ]
+			},
+			"properties" : {
+				"ID" : 153,
+				"stop_name" : "Barberà del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 154,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.271625, 41.720987 ]
+			},
+			"properties" : {
+				"ID" : 155,
+				"stop_name" : "Figaró",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 156,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.09591, 41.562401 ]
+			},
+			"properties" : {
+				"ID" : 157,
+				"stop_name" : "Sabadell Nord",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 158,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.118535, 41.513615 ]
+			},
+			"properties" : {
+				"ID" : 159,
+				"stop_name" : "Barberà del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 160,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 161,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 162,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 163,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14743, 41.492627 ]
+			},
+			"properties" : {
+				"ID" : 164,
+				"stop_name" : "Cerdanyola del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 165,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 166,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.703112, 41.344811 ]
+			},
+			"properties" : {
+				"ID" : 167,
+				"stop_name" : "Vilafranca del Penedès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 168,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.703112, 41.344811 ]
+			},
+			"properties" : {
+				"ID" : 169,
+				"stop_name" : "Vilafranca del Penedès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.060147, 41.36854 ]
+			},
+			"properties" : {
+				"ID" : 170,
+				"stop_name" : "Sant Joan Despí",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.703112, 41.344811 ]
+			},
+			"properties" : {
+				"ID" : 171,
+				"stop_name" : "Vilafranca del Penedès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.537743, 41.221184 ]
+			},
+			"properties" : {
+				"ID" : 172,
+				"stop_name" : "El Vendrell",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.703112, 41.344811 ]
+			},
+			"properties" : {
+				"ID" : 173,
+				"stop_name" : "Vilafranca del Penedès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.794639, 41.420588 ]
+			},
+			"properties" : {
+				"ID" : 174,
+				"stop_name" : "Sant Sadurní d'Anoia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.703112, 41.344811 ]
+			},
+			"properties" : {
+				"ID" : 175,
+				"stop_name" : "Vilafranca del Penedès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 176,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.703112, 41.344811 ]
+			},
+			"properties" : {
+				"ID" : 177,
+				"stop_name" : "Vilafranca del Penedès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.703112, 41.344811 ]
+			},
+			"properties" : {
+				"ID" : 178,
+				"stop_name" : "Vilafranca del Penedès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.794639, 41.420588 ]
+			},
+			"properties" : {
+				"ID" : 179,
+				"stop_name" : "Sant Sadurní d'Anoia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.768182, 41.395657 ]
+			},
+			"properties" : {
+				"ID" : 180,
+				"stop_name" : "Lavern - Subirats",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.537743, 41.221184 ]
+			},
+			"properties" : {
+				"ID" : 181,
+				"stop_name" : "El Vendrell",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.010444, 41.303417 ]
+			},
+			"properties" : {
+				"ID" : 182,
+				"stop_name" : "Gavà",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.768182, 41.395657 ]
+			},
+			"properties" : {
+				"ID" : 183,
+				"stop_name" : "Lavern - Subirats",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.62372, 41.7389183 ]
+			},
+			"properties" : {
+				"ID" : 184,
+				"stop_name" : "Aguilar de Segarra",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.865498, 41.448531 ]
+			},
+			"properties" : {
+				"ID" : 185,
+				"stop_name" : "Gelida",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.725036, 41.371016 ]
+			},
+			"properties" : {
+				"ID" : 186,
+				"stop_name" : "La Granada",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 187,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 188,
+				"stop_name" : "Sitges",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 189,
+				"stop_name" : "El Clot",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.089908, 41.330626 ]
+			},
+			"properties" : {
+				"ID" : 190,
+				"stop_name" : "El Prat de Llobregat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 191,
+				"stop_name" : "Sitges",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 192,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.902357, 41.253964 ]
+			},
+			"properties" : {
+				"ID" : 193,
+				"stop_name" : "Garraf",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.979093, 41.278755 ]
+			},
+			"properties" : {
+				"ID" : 194,
+				"stop_name" : "Castelldefels",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 195,
+				"stop_name" : "Sitges",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 196,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 197,
+				"stop_name" : "Sitges",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 198,
+				"stop_name" : "Sitges",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 199,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 200,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.220389 ]
+			},
+			"properties" : {
+				"ID" : 201,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.220389 ]
+			},
+			"properties" : {
+				"ID" : 202,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 203,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 204,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.220389 ]
+			},
+			"properties" : {
+				"ID" : 205,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.220389 ]
+			},
+			"properties" : {
+				"ID" : 206,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.253214, 41.1116257 ]
+			},
+			"properties" : {
+				"ID" : 207,
+				"stop_name" : "Tarragona",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 208,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.220389 ]
+			},
+			"properties" : {
+				"ID" : 209,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8097207, 41.2390638 ]
+			},
+			"properties" : {
+				"ID" : 210,
+				"stop_name" : "Sitges",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 211,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.3922806 ]
+			},
+			"properties" : {
+				"ID" : 212,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 213,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 214,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 215,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 216,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0277, 41.309407 ]
+			},
+			"properties" : {
+				"ID" : 217,
+				"stop_name" : "Viladecans",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 218,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.4551443, 41.1863136 ]
+			},
+			"properties" : {
+				"ID" : 219,
+				"stop_name" : "Roda de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 220,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 221,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 222,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 223,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.730722, 41.2203903 ]
+			},
+			"properties" : {
+				"ID" : 224,
+				"stop_name" : "Vilanova i la Geltrú",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.675957, 41.20434 ]
+			},
+			"properties" : {
+				"ID" : 225,
+				"stop_name" : "Cubelles",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 226,
+				"stop_name" : "Mataró",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.817006, 41.979303 ]
+			},
+			"properties" : {
+				"ID" : 227,
+				"stop_name" : "Girona",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 228,
+				"stop_name" : "Mataró",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.230761, 41.424665 ]
+			},
+			"properties" : {
+				"ID" : 229,
+				"stop_name" : "Sant Adrià de Besòs",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 230,
+				"stop_name" : "Mataró",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248893, 41.445921 ]
+			},
+			"properties" : {
+				"ID" : 231,
+				"stop_name" : "Badalona",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 232,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 233,
+				"stop_name" : "Mataró",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 234,
+				"stop_name" : "Mataró",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.310702, 41.477136 ]
+			},
+			"properties" : {
+				"ID" : 235,
+				"stop_name" : "El Masnou",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 236,
+				"stop_name" : "Mataró",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.389473, 41.500454 ]
+			},
+			"properties" : {
+				"ID" : 237,
+				"stop_name" : "Vilassar de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.3845367 ]
+			},
+			"properties" : {
+				"ID" : 238,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 239,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 240,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.319648, 41.479051 ]
+			},
+			"properties" : {
+				"ID" : 241,
+				"stop_name" : "Ocata",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.319648, 41.479051 ]
+			},
+			"properties" : {
+				"ID" : 242,
+				"stop_name" : "Ocata",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 243,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.310702, 41.477136 ]
+			},
+			"properties" : {
+				"ID" : 244,
+				"stop_name" : "El Masnou",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.230761, 41.424665 ]
+			},
+			"properties" : {
+				"ID" : 245,
+				"stop_name" : "Sant Adrià de Besòs",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 246,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.3845367 ]
+			},
+			"properties" : {
+				"ID" : 247,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 248,
+				"stop_name" : "El Clot",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 249,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 250,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 251,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 252,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 253,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 254,
+				"stop_name" : "Mataró",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 255,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 256,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.319648, 41.479051 ]
+			},
+			"properties" : {
+				"ID" : 257,
+				"stop_name" : "Ocata",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.319648, 41.479051 ]
+			},
+			"properties" : {
+				"ID" : 258,
+				"stop_name" : "Ocata",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354698, 41.48764 ]
+			},
+			"properties" : {
+				"ID" : 259,
+				"stop_name" : "Premià de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 260,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.58121, 41.586716 ]
+			},
+			"properties" : {
+				"ID" : 261,
+				"stop_name" : "Canet de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.741529, 41.641776 ]
+			},
+			"properties" : {
+				"ID" : 262,
+				"stop_name" : "Malgrat de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.693517, 41.622396 ]
+			},
+			"properties" : {
+				"ID" : 263,
+				"stop_name" : "Pineda de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.8170061, 41.9793015 ]
+			},
+			"properties" : {
+				"ID" : 264,
+				"stop_name" : "Girona",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.665716, 41.614589 ]
+			},
+			"properties" : {
+				"ID" : 265,
+				"stop_name" : "Calella",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 266,
+				"stop_name" : "El Clot",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.741529, 41.641776 ]
+			},
+			"properties" : {
+				"ID" : 267,
+				"stop_name" : "Malgrat de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.665716, 41.614589 ]
+			},
+			"properties" : {
+				"ID" : 268,
+				"stop_name" : "Calella",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.498462, 41.555722 ]
+			},
+			"properties" : {
+				"ID" : 269,
+				"stop_name" : "Sant Andreu de Llavaneres",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 270,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.693517, 41.622396 ]
+			},
+			"properties" : {
+				"ID" : 271,
+				"stop_name" : "Pineda de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.624584, 41.601811 ]
+			},
+			"properties" : {
+				"ID" : 272,
+				"stop_name" : "Sant Pol de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.549343, 41.5777 ]
+			},
+			"properties" : {
+				"ID" : 273,
+				"stop_name" : "Arenys de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.58121, 41.586716 ]
+			},
+			"properties" : {
+				"ID" : 274,
+				"stop_name" : "Canet de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 275,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.58121, 41.586716 ]
+			},
+			"properties" : {
+				"ID" : 276,
+				"stop_name" : "Canet de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.58121, 41.586716 ]
+			},
+			"properties" : {
+				"ID" : 277,
+				"stop_name" : "Canet de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.58121, 41.586716 ]
+			},
+			"properties" : {
+				"ID" : 278,
+				"stop_name" : "Canet de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.549343, 41.5777 ]
+			},
+			"properties" : {
+				"ID" : 279,
+				"stop_name" : "Arenys de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4455352, 41.5333991 ]
+			},
+			"properties" : {
+				"ID" : 280,
+				"stop_name" : "Mataró",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 281,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.693517, 41.622396 ]
+			},
+			"properties" : {
+				"ID" : 282,
+				"stop_name" : "Pineda de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.665716, 41.614589 ]
+			},
+			"properties" : {
+				"ID" : 283,
+				"stop_name" : "Calella",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.549343, 41.5777 ]
+			},
+			"properties" : {
+				"ID" : 284,
+				"stop_name" : "Arenys de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 285,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.693517, 41.622396 ]
+			},
+			"properties" : {
+				"ID" : 286,
+				"stop_name" : "Pineda de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.58121, 41.586716 ]
+			},
+			"properties" : {
+				"ID" : 287,
+				"stop_name" : "Canet de Mar",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.230761, 41.424665 ]
+			},
+			"properties" : {
+				"ID" : 288,
+				"stop_name" : "Sant Adrià de Besòs",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0371, 41.475178 ]
+			},
+			"properties" : {
+				"ID" : 289,
+				"stop_name" : "Rubí Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 290,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.181941, 41.496841 ]
+			},
+			"properties" : {
+				"ID" : 291,
+				"stop_name" : "Montcada Ripollet",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 292,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 293,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 294,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0142891, 41.5697963 ]
+			},
+			"properties" : {
+				"ID" : 295,
+				"stop_name" : "Terrassa Estació del Nord",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 296,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 297,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 298,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.105395, 41.528716 ]
+			},
+			"properties" : {
+				"ID" : 299,
+				"stop_name" : "Sabadell Sud",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.105395, 41.528716 ]
+			},
+			"properties" : {
+				"ID" : 300,
+				"stop_name" : "Sabadell Sud",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 301,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.105395, 41.528716 ]
+			},
+			"properties" : {
+				"ID" : 302,
+				"stop_name" : "Sabadell Sud",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0142891, 41.5697975 ]
+			},
+			"properties" : {
+				"ID" : 303,
+				"stop_name" : "Terrassa Estació del Nord",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 304,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.09591, 41.562401 ]
+			},
+			"properties" : {
+				"ID" : 305,
+				"stop_name" : "Sabadell Nord",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.180271, 41.391646 ]
+			},
+			"properties" : {
+				"ID" : 306,
+				"stop_name" : "Arc de Triomf",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0142891, 41.5697975 ]
+			},
+			"properties" : {
+				"ID" : 307,
+				"stop_name" : "Terrassa Estació del Nord",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.979093, 41.278755 ]
+			},
+			"properties" : {
+				"ID" : 308,
+				"stop_name" : "Castelldefels",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0142891, 41.5697975 ]
+			},
+			"properties" : {
+				"ID" : 309,
+				"stop_name" : "Terrassa Estació del Nord",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 310,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0142891, 41.5697975 ]
+			},
+			"properties" : {
+				"ID" : 311,
+				"stop_name" : "Terrassa Estació del Nord",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.039406, 41.567515 ]
+			},
+			"properties" : {
+				"ID" : 312,
+				"stop_name" : "Terrassa Est",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.09591, 41.562401 ]
+			},
+			"properties" : {
+				"ID" : 313,
+				"stop_name" : "Sabadell Nord",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0142891, 41.5697975 ]
+			},
+			"properties" : {
+				"ID" : 314,
+				"stop_name" : "Terrassa Estació del Nord",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1156653, 41.5463908 ]
+			},
+			"properties" : {
+				"ID" : 315,
+				"stop_name" : "Sabadell Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.916921, 41.586759 ]
+			},
+			"properties" : {
+				"ID" : 316,
+				"stop_name" : "Vacarisses - Torreblanca",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.862649, 41.668851 ]
+			},
+			"properties" : {
+				"ID" : 317,
+				"stop_name" : "Sant Vicenç de Castellet",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.186463, 41.526327 ]
+			},
+			"properties" : {
+				"ID" : 318,
+				"stop_name" : "Santa Perpètua de Mogoda Riera de Caldes",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 319,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.186463, 41.526327 ]
+			},
+			"properties" : {
+				"ID" : 320,
+				"stop_name" : "Santa Perpètua de Mogoda Riera de Caldes",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 321,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.291087, 41.599705 ]
+			},
+			"properties" : {
+				"ID" : 322,
+				"stop_name" : "Granollers Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 323,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.291087, 41.599705 ]
+			},
+			"properties" : {
+				"ID" : 324,
+				"stop_name" : "Granollers Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 325,
+				"stop_name" : "El Clot",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871481, 41.4091873 ]
+			},
+			"properties" : {
+				"ID" : 326,
+				"stop_name" : "El Clot",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.291087, 41.599705 ]
+			},
+			"properties" : {
+				"ID" : 327,
+				"stop_name" : "Granollers Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.21757, 41.533579 ]
+			},
+			"properties" : {
+				"ID" : 328,
+				"stop_name" : "Mollet - Sant Fost",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.206189, 41.536597 ]
+			},
+			"properties" : {
+				"ID" : 329,
+				"stop_name" : "Mollet Santa Rosa",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 330,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.21757, 41.533579 ]
+			},
+			"properties" : {
+				"ID" : 331,
+				"stop_name" : "Mollet - Sant Fost",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.199768, 41.510473 ]
+			},
+			"properties" : {
+				"ID" : 332,
+				"stop_name" : "La Llagosta",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.206189, 41.536597 ]
+			},
+			"properties" : {
+				"ID" : 333,
+				"stop_name" : "Mollet Santa Rosa",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 334,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.115482, 41.497107 ]
+			},
+			"properties" : {
+				"ID" : 335,
+				"stop_name" : "Cerdanyola Universitat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.206189, 41.536597 ]
+			},
+			"properties" : {
+				"ID" : 336,
+				"stop_name" : "Mollet Santa Rosa",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.21757, 41.533579 ]
+			},
+			"properties" : {
+				"ID" : 337,
+				"stop_name" : "Mollet - Sant Fost",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.356203, 41.636719 ]
+			},
+			"properties" : {
+				"ID" : 338,
+				"stop_name" : "Cardedeu",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4905541, 41.6858788 ]
+			},
+			"properties" : {
+				"ID" : 339,
+				"stop_name" : "Sant Celoni",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2910869, 41.5997047 ]
+			},
+			"properties" : {
+				"ID" : 340,
+				"stop_name" : "Granollers Centre",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.356203, 41.636719 ]
+			},
+			"properties" : {
+				"ID" : 341,
+				"stop_name" : "Cardedeu",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.384535 ]
+			},
+			"properties" : {
+				"ID" : 342,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.5386169, 41.7181702 ]
+			},
+			"properties" : {
+				"ID" : 343,
+				"stop_name" : "Gualba",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.288748, 41.684469 ]
+			},
+			"properties" : {
+				"ID" : 344,
+				"stop_name" : "La Garriga",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248904, 41.931034 ]
+			},
+			"properties" : {
+				"ID" : 345,
+				"stop_name" : "Vic",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.21757, 41.533579 ]
+			},
+			"properties" : {
+				"ID" : 346,
+				"stop_name" : "Mollet - Sant Fost",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.194315, 41.521686 ]
+			},
+			"properties" : {
+				"ID" : 347,
+				"stop_name" : "Santa Perpètua de Mogoda la Florida",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 348,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2458008, 41.5498745 ]
+			},
+			"properties" : {
+				"ID" : 349,
+				"stop_name" : "Montmeló",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 350,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2458008, 41.5498745 ]
+			},
+			"properties" : {
+				"ID" : 351,
+				"stop_name" : "Montmeló",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.3922806 ]
+			},
+			"properties" : {
+				"ID" : 352,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.295206, 41.629722 ]
+			},
+			"properties" : {
+				"ID" : 353,
+				"stop_name" : "Les Franqueses del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930971, 41.4360847 ]
+			},
+			"properties" : {
+				"ID" : 354,
+				"stop_name" : "Sant Andreu",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.225992, 41.556292 ]
+			},
+			"properties" : {
+				"ID" : 355,
+				"stop_name" : "Parets del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.206189, 41.536597 ]
+			},
+			"properties" : {
+				"ID" : 356,
+				"stop_name" : "Mollet Santa Rosa",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.295206, 41.629722 ]
+			},
+			"properties" : {
+				"ID" : 357,
+				"stop_name" : "Les Franqueses del Vallès",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248904, 41.931034 ]
+			},
+			"properties" : {
+				"ID" : 358,
+				"stop_name" : "Vic",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.288748, 41.684469 ]
+			},
+			"properties" : {
+				"ID" : 359,
+				"stop_name" : "La Garriga",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.277008, 41.611416 ]
+			},
+			"properties" : {
+				"ID" : 360,
+				"stop_name" : "Granollers - Canovelles",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.3922806 ]
+			},
+			"properties" : {
+				"ID" : 361,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.3922806 ]
+			},
+			"properties" : {
+				"ID" : 362,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2458008, 41.5498745 ]
+			},
+			"properties" : {
+				"ID" : 363,
+				"stop_name" : "Montmeló",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 364,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.21757, 41.533579 ]
+			},
+			"properties" : {
+				"ID" : 365,
+				"stop_name" : "Mollet - Sant Fost",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140624, 41.3795204 ]
+			},
+			"properties" : {
+				"ID" : 366,
+				"stop_name" : "Barcelona Sants",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164896, 41.392281 ]
+			},
+			"properties" : {
+				"ID" : 367,
+				"stop_name" : "Passeig de Gràcia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.794639, 41.420588 ]
+			},
+			"properties" : {
+				"ID" : 368,
+				"stop_name" : "Sant Sadurní d'Anoia",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.3845367 ]
+			},
+			"properties" : {
+				"ID" : 369,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.827185, 41.7203941 ]
+			},
+			"properties" : {
+				"ID" : 370,
+				"stop_name" : "Manresa",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.86855, 41.6284 ]
+			},
+			"properties" : {
+				"ID" : 371,
+				"stop_name" : "Castellbell i el Vilar - Monistrol de Montserrat",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168856, 41.38737 ]
+			},
+			"properties" : {
+				"ID" : 372,
+				"stop_name" : "Plaça de Catalunya",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.862649, 41.668851 ]
+			},
+			"properties" : {
+				"ID" : 373,
+				"stop_name" : "Sant Vicenç de Castellet",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.247519, 41.841868 ]
+			},
+			"properties" : {
+				"ID" : 374,
+				"stop_name" : "Balenyà - Tona - Seva",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.248904, 41.931034 ]
+			},
+			"properties" : {
+				"ID" : 375,
+				"stop_name" : "Vic",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.233315, 41.814938 ]
+			},
+			"properties" : {
+				"ID" : 376,
+				"stop_name" : "Balenyà - Els Hostalets",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.217712, 42.104825 ]
+			},
+			"properties" : {
+				"ID" : 377,
+				"stop_name" : "Sant Quirze de Besora",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18519, 41.3845367 ]
+			},
+			"properties" : {
+				"ID" : 378,
+				"stop_name" : "Barcelona Estació de França",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.222478, 41.799375 ]
+			},
+			"properties" : {
+				"ID" : 379,
+				"stop_name" : "Centelles",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183104, 41.430851 ]
+			},
+			"properties" : {
+				"ID" : 380,
+				"stop_name" : "Fabra i Puig",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.247519, 41.841868 ]
+			},
+			"properties" : {
+				"ID" : 381,
+				"stop_name" : "Balenyà - Tona - Seva",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.277008, 41.611416 ]
+			},
+			"properties" : {
+				"ID" : 382,
+				"stop_name" : "Granollers - Canovelles",
+				"entitat" : "parada origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0142891, 41.5697963 ]
+			},
+			"properties" : {
+				"ID" : 383,
+				"stop_name" : "Terrassa Estació del Nord",
+				"entitat" : "parada origen"
+			}
+		}
+	]
+}

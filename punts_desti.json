@@ -1,0 +1,8431 @@
+{
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.143955193, 41.38020785 ]
+			},
+			"properties" : {
+				"ID" : 1,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1904965264, 41.3788523782 ]
+			},
+			"properties" : {
+				"ID" : 2,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1957615984, 41.5108165012 ]
+			},
+			"properties" : {
+				"ID" : 3,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.173451217, 41.3750548072 ]
+			},
+			"properties" : {
+				"ID" : 4,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.169570225, 41.38016573 ]
+			},
+			"properties" : {
+				"ID" : 5,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9790198, 41.2793827 ]
+			},
+			"properties" : {
+				"ID" : 6,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1434421154, 41.3861121687 ]
+			},
+			"properties" : {
+				"ID" : 7,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9870337575, 41.2759826129 ]
+			},
+			"properties" : {
+				"ID" : 8,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1690266, 41.3884367 ]
+			},
+			"properties" : {
+				"ID" : 9,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.100990103, 41.36286343 ]
+			},
+			"properties" : {
+				"ID" : 10,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.118924768, 41.39246271 ]
+			},
+			"properties" : {
+				"ID" : 11,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0255492183, 41.3071034633 ]
+			},
+			"properties" : {
+				"ID" : 12,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1728658593, 41.3972716452 ]
+			},
+			"properties" : {
+				"ID" : 13,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1000064807, 41.363710379 ]
+			},
+			"properties" : {
+				"ID" : 14,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1469863506, 41.3790871122 ]
+			},
+			"properties" : {
+				"ID" : 15,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1710092, 41.3982692 ]
+			},
+			"properties" : {
+				"ID" : 16,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4461456093, 41.5364629916 ]
+			},
+			"properties" : {
+				"ID" : 17,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1163359, 41.5435531 ]
+			},
+			"properties" : {
+				"ID" : 18,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1386023945, 41.3707143801 ]
+			},
+			"properties" : {
+				"ID" : 19,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1302020593, 41.3797784629 ]
+			},
+			"properties" : {
+				"ID" : 20,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1573354, 41.3757833 ]
+			},
+			"properties" : {
+				"ID" : 21,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.127669306, 41.378773661 ]
+			},
+			"properties" : {
+				"ID" : 22,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.122406436, 41.3757788095 ]
+			},
+			"properties" : {
+				"ID" : 23,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1878741519, 41.4855706432 ]
+			},
+			"properties" : {
+				"ID" : 24,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1292782046, 41.3849603846 ]
+			},
+			"properties" : {
+				"ID" : 25,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1660745272, 41.4087569468 ]
+			},
+			"properties" : {
+				"ID" : 26,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.13986754, 41.37916068 ]
+			},
+			"properties" : {
+				"ID" : 27,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1588830948, 41.4009327903 ]
+			},
+			"properties" : {
+				"ID" : 28,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.105565668, 41.49861098 ]
+			},
+			"properties" : {
+				"ID" : 29,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1624659074, 41.429787931 ]
+			},
+			"properties" : {
+				"ID" : 30,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.548890051, 41.58012305 ]
+			},
+			"properties" : {
+				"ID" : 31,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1768664374, 41.4606094694 ]
+			},
+			"properties" : {
+				"ID" : 32,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1796067, 41.3921827 ]
+			},
+			"properties" : {
+				"ID" : 33,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1399659, 41.3822652 ]
+			},
+			"properties" : {
+				"ID" : 34,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1768664374, 41.4606094694 ]
+			},
+			"properties" : {
+				"ID" : 35,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1702334, 41.4028322 ]
+			},
+			"properties" : {
+				"ID" : 36,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1771950302, 41.4606897704 ]
+			},
+			"properties" : {
+				"ID" : 37,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1192328241, 41.5469280305 ]
+			},
+			"properties" : {
+				"ID" : 38,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9829247602, 41.4764495699 ]
+			},
+			"properties" : {
+				"ID" : 39,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1903105568, 41.4830898555 ]
+			},
+			"properties" : {
+				"ID" : 40,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0181386, 41.4125034 ]
+			},
+			"properties" : {
+				"ID" : 41,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.98202, 41.47743 ]
+			},
+			"properties" : {
+				"ID" : 42,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1011629, 41.3616973 ]
+			},
+			"properties" : {
+				"ID" : 43,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1931710005, 41.4381855731 ]
+			},
+			"properties" : {
+				"ID" : 44,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1858890245, 41.4206155543 ]
+			},
+			"properties" : {
+				"ID" : 45,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1935606289, 41.4845578403 ]
+			},
+			"properties" : {
+				"ID" : 46,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1925570348, 41.4376463317 ]
+			},
+			"properties" : {
+				"ID" : 47,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.15022, 41.3935 ]
+			},
+			"properties" : {
+				"ID" : 48,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930894624, 41.4343305998 ]
+			},
+			"properties" : {
+				"ID" : 49,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168568, 41.3873974 ]
+			},
+			"properties" : {
+				"ID" : 50,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1835183303, 41.4326245609 ]
+			},
+			"properties" : {
+				"ID" : 51,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1374978, 41.3844435 ]
+			},
+			"properties" : {
+				"ID" : 52,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1841430403, 41.4345384448 ]
+			},
+			"properties" : {
+				"ID" : 53,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1688369, 41.3992355 ]
+			},
+			"properties" : {
+				"ID" : 54,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1894673098, 41.4373822048 ]
+			},
+			"properties" : {
+				"ID" : 55,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1841428837, 41.4230740307 ]
+			},
+			"properties" : {
+				"ID" : 56,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4451209716, 41.5336623532 ]
+			},
+			"properties" : {
+				"ID" : 57,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0253842548, 41.3071709353 ]
+			},
+			"properties" : {
+				"ID" : 58,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1861453774, 41.4076161604 ]
+			},
+			"properties" : {
+				"ID" : 59,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.401657434, 41.50685088 ]
+			},
+			"properties" : {
+				"ID" : 60,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1864758141, 41.4120318746 ]
+			},
+			"properties" : {
+				"ID" : 61,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2048795515, 41.4023554398 ]
+			},
+			"properties" : {
+				"ID" : 62,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2102462809, 41.4063522323 ]
+			},
+			"properties" : {
+				"ID" : 63,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.757353, 41.64570916 ]
+			},
+			"properties" : {
+				"ID" : 64,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2231871935, 41.4336596517 ]
+			},
+			"properties" : {
+				"ID" : 65,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168568, 41.3873974 ]
+			},
+			"properties" : {
+				"ID" : 66,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2595188625, 41.4551057876 ]
+			},
+			"properties" : {
+				"ID" : 67,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2394703896, 41.4580936435 ]
+			},
+			"properties" : {
+				"ID" : 68,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.085883841, 41.3508526 ]
+			},
+			"properties" : {
+				"ID" : 69,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4429072474, 41.5451092804 ]
+			},
+			"properties" : {
+				"ID" : 70,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2548792664, 41.4553358818 ]
+			},
+			"properties" : {
+				"ID" : 71,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2064894474, 41.4542933944 ]
+			},
+			"properties" : {
+				"ID" : 72,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1797937111, 41.3910231253 ]
+			},
+			"properties" : {
+				"ID" : 73,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2884645258, 41.4698885738 ]
+			},
+			"properties" : {
+				"ID" : 74,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1711725, 41.3879159 ]
+			},
+			"properties" : {
+				"ID" : 75,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.193973911, 41.38449067 ]
+			},
+			"properties" : {
+				"ID" : 76,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9820123165, 41.2856246697 ]
+			},
+			"properties" : {
+				"ID" : 77,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9737923453, 41.2782730861 ]
+			},
+			"properties" : {
+				"ID" : 78,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.17281, 41.3892478 ]
+			},
+			"properties" : {
+				"ID" : 79,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1892081, 41.3838092 ]
+			},
+			"properties" : {
+				"ID" : 80,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0027461304, 41.30104603 ]
+			},
+			"properties" : {
+				"ID" : 81,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9902450833, 41.3042608582 ]
+			},
+			"properties" : {
+				"ID" : 82,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1766240874, 41.3939333664 ]
+			},
+			"properties" : {
+				"ID" : 83,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0027284211, 41.3080213218 ]
+			},
+			"properties" : {
+				"ID" : 84,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0004644851, 41.3038869314 ]
+			},
+			"properties" : {
+				"ID" : 85,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9971411209, 41.3093702109 ]
+			},
+			"properties" : {
+				"ID" : 86,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0284478, 41.5641862 ]
+			},
+			"properties" : {
+				"ID" : 87,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1323851, 41.380843 ]
+			},
+			"properties" : {
+				"ID" : 88,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0950752539, 41.3294353382 ]
+			},
+			"properties" : {
+				"ID" : 89,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0062962057, 41.3080183286 ]
+			},
+			"properties" : {
+				"ID" : 90,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1403671206, 41.3792684431 ]
+			},
+			"properties" : {
+				"ID" : 91,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0154330362, 41.3183728683 ]
+			},
+			"properties" : {
+				"ID" : 92,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.135365872, 41.37569719 ]
+			},
+			"properties" : {
+				"ID" : 93,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1744371, 41.386531 ]
+			},
+			"properties" : {
+				"ID" : 94,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0662777778, 41.3588380605 ]
+			},
+			"properties" : {
+				"ID" : 95,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.169711168, 41.38746967 ]
+			},
+			"properties" : {
+				"ID" : 96,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0475809282, 41.3800171624 ]
+			},
+			"properties" : {
+				"ID" : 97,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.165666759, 41.39308291 ]
+			},
+			"properties" : {
+				"ID" : 98,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0519321097, 41.3867722612 ]
+			},
+			"properties" : {
+				"ID" : 99,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1423765, 41.3833345 ]
+			},
+			"properties" : {
+				"ID" : 100,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1710653895, 41.3876892377 ]
+			},
+			"properties" : {
+				"ID" : 101,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1423765, 41.3833345 ]
+			},
+			"properties" : {
+				"ID" : 102,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0472113898, 41.3781229366 ]
+			},
+			"properties" : {
+				"ID" : 103,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18502, 41.4280489 ]
+			},
+			"properties" : {
+				"ID" : 104,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0529232479, 41.3840091922 ]
+			},
+			"properties" : {
+				"ID" : 105,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1449247, 41.3783562 ]
+			},
+			"properties" : {
+				"ID" : 106,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0557292945, 41.3859832652 ]
+			},
+			"properties" : {
+				"ID" : 107,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1752406, 41.3875556 ]
+			},
+			"properties" : {
+				"ID" : 108,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0452868829, 41.3849186487 ]
+			},
+			"properties" : {
+				"ID" : 109,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1901315, 41.3963076 ]
+			},
+			"properties" : {
+				"ID" : 110,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1806592716, 41.3911132904 ]
+			},
+			"properties" : {
+				"ID" : 111,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.602807076, 41.18977091 ]
+			},
+			"properties" : {
+				"ID" : 112,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0927831327, 41.3607884336 ]
+			},
+			"properties" : {
+				"ID" : 113,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.272350554, 41.46352615 ]
+			},
+			"properties" : {
+				"ID" : 114,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1072004009, 41.3600872253 ]
+			},
+			"properties" : {
+				"ID" : 115,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1617175, 41.3868283 ]
+			},
+			"properties" : {
+				"ID" : 116,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0925063443, 41.3614969271 ]
+			},
+			"properties" : {
+				"ID" : 117,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9630224037, 41.4277504656 ]
+			},
+			"properties" : {
+				"ID" : 118,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.077814726, 41.34763618 ]
+			},
+			"properties" : {
+				"ID" : 119,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9630224037, 41.4277504656 ]
+			},
+			"properties" : {
+				"ID" : 120,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1610452, 41.3912453 ]
+			},
+			"properties" : {
+				"ID" : 121,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1515291, 41.3947667 ]
+			},
+			"properties" : {
+				"ID" : 122,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0200648545, 41.415148048 ]
+			},
+			"properties" : {
+				"ID" : 123,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1403671206, 41.3792684431 ]
+			},
+			"properties" : {
+				"ID" : 124,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0157995467, 41.4086730597 ]
+			},
+			"properties" : {
+				"ID" : 125,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.172738, 41.3893149 ]
+			},
+			"properties" : {
+				"ID" : 126,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0177484409, 41.4126312478 ]
+			},
+			"properties" : {
+				"ID" : 127,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1513842, 41.4047309 ]
+			},
+			"properties" : {
+				"ID" : 128,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1513423, 41.3826332 ]
+			},
+			"properties" : {
+				"ID" : 129,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0575214, 41.3841554 ]
+			},
+			"properties" : {
+				"ID" : 130,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.018953313, 41.4191006674 ]
+			},
+			"properties" : {
+				"ID" : 131,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1815871, 41.3820846 ]
+			},
+			"properties" : {
+				"ID" : 132,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0242349761, 41.4074396084 ]
+			},
+			"properties" : {
+				"ID" : 133,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0167904626, 41.4079650633 ]
+			},
+			"properties" : {
+				"ID" : 134,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164273326, 41.39336454 ]
+			},
+			"properties" : {
+				"ID" : 135,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9716109804, 41.3464061049 ]
+			},
+			"properties" : {
+				"ID" : 136,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.984127531, 41.4697954997 ]
+			},
+			"properties" : {
+				"ID" : 137,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1761118, 41.3857956 ]
+			},
+			"properties" : {
+				"ID" : 138,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1898570179, 41.4807093645 ]
+			},
+			"properties" : {
+				"ID" : 139,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140343931, 41.37920191 ]
+			},
+			"properties" : {
+				"ID" : 140,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1765893516, 41.4949935026 ]
+			},
+			"properties" : {
+				"ID" : 141,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1906372, 41.4049016 ]
+			},
+			"properties" : {
+				"ID" : 142,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871113128, 41.4868573363 ]
+			},
+			"properties" : {
+				"ID" : 143,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1168294639, 41.5443070911 ]
+			},
+			"properties" : {
+				"ID" : 144,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1542443498, 41.4966363365 ]
+			},
+			"properties" : {
+				"ID" : 145,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14710132, 41.3839323527 ]
+			},
+			"properties" : {
+				"ID" : 146,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1613100967, 41.4948205869 ]
+			},
+			"properties" : {
+				"ID" : 147,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140755026, 41.49119887 ]
+			},
+			"properties" : {
+				"ID" : 148,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1973330414, 41.3867094349 ]
+			},
+			"properties" : {
+				"ID" : 149,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1211004163, 41.513609095 ]
+			},
+			"properties" : {
+				"ID" : 150,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.169378211, 41.38607881 ]
+			},
+			"properties" : {
+				"ID" : 151,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1253611138, 41.5199642515 ]
+			},
+			"properties" : {
+				"ID" : 152,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.109749429, 41.54573389 ]
+			},
+			"properties" : {
+				"ID" : 153,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2941820343, 41.7258622621 ]
+			},
+			"properties" : {
+				"ID" : 154,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1320201555, 41.4950162542 ]
+			},
+			"properties" : {
+				"ID" : 155,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.098748021, 41.5501249822 ]
+			},
+			"properties" : {
+				"ID" : 156,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1491255336, 41.4940444593 ]
+			},
+			"properties" : {
+				"ID" : 157,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.111655728, 41.50793325 ]
+			},
+			"properties" : {
+				"ID" : 158,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1469564416, 41.494462185 ]
+			},
+			"properties" : {
+				"ID" : 159,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1674051937, 41.384053386 ]
+			},
+			"properties" : {
+				"ID" : 160,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.165504699, 41.40628452 ]
+			},
+			"properties" : {
+				"ID" : 161,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.169986371, 41.38796292 ]
+			},
+			"properties" : {
+				"ID" : 162,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1440794461, 41.4915553988 ]
+			},
+			"properties" : {
+				"ID" : 163,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1159747071, 41.5467099702 ]
+			},
+			"properties" : {
+				"ID" : 164,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.143822752, 41.4938001893 ]
+			},
+			"properties" : {
+				"ID" : 165,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.116756326, 41.508873631 ]
+			},
+			"properties" : {
+				"ID" : 166,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.5232169548, 41.2141404625 ]
+			},
+			"properties" : {
+				"ID" : 167,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7026305, 41.3553567 ]
+			},
+			"properties" : {
+				"ID" : 168,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.061601932, 41.3674578 ]
+			},
+			"properties" : {
+				"ID" : 169,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7066146255, 41.3383134269 ]
+			},
+			"properties" : {
+				"ID" : 170,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.5368985, 41.2196322 ]
+			},
+			"properties" : {
+				"ID" : 171,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6951779, 41.3419605 ]
+			},
+			"properties" : {
+				"ID" : 172,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.803761659, 41.40832308 ]
+			},
+			"properties" : {
+				"ID" : 173,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6974984121, 41.3380046515 ]
+			},
+			"properties" : {
+				"ID" : 174,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.146003697, 41.39724067 ]
+			},
+			"properties" : {
+				"ID" : 175,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6936299928, 41.3425577744 ]
+			},
+			"properties" : {
+				"ID" : 176,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.162285316, 41.3942167653 ]
+			},
+			"properties" : {
+				"ID" : 177,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.183445, 41.4227564 ]
+			},
+			"properties" : {
+				"ID" : 178,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1526824579, 41.4024724292 ]
+			},
+			"properties" : {
+				"ID" : 179,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.523203042, 41.2141475 ]
+			},
+			"properties" : {
+				"ID" : 180,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7686445923, 41.3921155122 ]
+			},
+			"properties" : {
+				"ID" : 181,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.585514411, 41.24632131 ]
+			},
+			"properties" : {
+				"ID" : 182,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.623073096, 41.58206169 ]
+			},
+			"properties" : {
+				"ID" : 183,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7024541204, 41.4536438171 ]
+			},
+			"properties" : {
+				"ID" : 184,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.17348142, 41.3808766447 ]
+			},
+			"properties" : {
+				"ID" : 185,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.172311, 41.3908188 ]
+			},
+			"properties" : {
+				"ID" : 186,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.806527991, 41.23854789 ]
+			},
+			"properties" : {
+				"ID" : 187,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.201818234, 41.40074788 ]
+			},
+			"properties" : {
+				"ID" : 188,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8144464157, 41.2412320697 ]
+			},
+			"properties" : {
+				"ID" : 189,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7880525044, 41.2374082132 ]
+			},
+			"properties" : {
+				"ID" : 190,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.724942115, 41.22271764 ]
+			},
+			"properties" : {
+				"ID" : 191,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8153776203, 41.2369423328 ]
+			},
+			"properties" : {
+				"ID" : 192,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9799524279, 41.2800421994 ]
+			},
+			"properties" : {
+				"ID" : 193,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9038744007, 41.2553416546 ]
+			},
+			"properties" : {
+				"ID" : 194,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.162240327, 41.3918953428 ]
+			},
+			"properties" : {
+				"ID" : 195,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8050448526, 41.2387353195 ]
+			},
+			"properties" : {
+				"ID" : 196,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7251800836, 41.2230710047 ]
+			},
+			"properties" : {
+				"ID" : 197,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7281352, 41.2270068 ]
+			},
+			"properties" : {
+				"ID" : 198,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8090552628, 41.2364877078 ]
+			},
+			"properties" : {
+				"ID" : 199,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.129741041, 41.35903639 ]
+			},
+			"properties" : {
+				"ID" : 200,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8082186958, 41.2436143797 ]
+			},
+			"properties" : {
+				"ID" : 201,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1677237, 41.3883035 ]
+			},
+			"properties" : {
+				"ID" : 202,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.167856154, 41.3928545818 ]
+			},
+			"properties" : {
+				"ID" : 203,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7214671296, 41.2234150556 ]
+			},
+			"properties" : {
+				"ID" : 204,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1268822316, 41.3710968116 ]
+			},
+			"properties" : {
+				"ID" : 205,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.249192776, 41.1236807 ]
+			},
+			"properties" : {
+				"ID" : 206,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7354909056, 41.2179195694 ]
+			},
+			"properties" : {
+				"ID" : 207,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1631596, 41.4348899 ]
+			},
+			"properties" : {
+				"ID" : 208,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.808608153, 41.2389446809 ]
+			},
+			"properties" : {
+				"ID" : 209,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7194642138, 41.2197572198 ]
+			},
+			"properties" : {
+				"ID" : 210,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1649543818, 41.3917375301 ]
+			},
+			"properties" : {
+				"ID" : 211,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7324986426, 41.2240348313 ]
+			},
+			"properties" : {
+				"ID" : 212,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7323439, 41.2314119 ]
+			},
+			"properties" : {
+				"ID" : 213,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.169976834, 41.3878455 ]
+			},
+			"properties" : {
+				"ID" : 214,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6774583023, 41.2152367271 ]
+			},
+			"properties" : {
+				"ID" : 215,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.027058718, 41.30976279 ]
+			},
+			"properties" : {
+				"ID" : 216,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6623327444, 41.22652358 ]
+			},
+			"properties" : {
+				"ID" : 217,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.480442681, 41.16816548 ]
+			},
+			"properties" : {
+				"ID" : 218,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6705767149, 41.2208891752 ]
+			},
+			"properties" : {
+				"ID" : 219,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7255864, 41.2284372 ]
+			},
+			"properties" : {
+				"ID" : 220,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6753752808, 41.2111680349 ]
+			},
+			"properties" : {
+				"ID" : 221,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6382322, 41.2015657 ]
+			},
+			"properties" : {
+				"ID" : 222,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.725845125, 41.2224314053 ]
+			},
+			"properties" : {
+				"ID" : 223,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6774016, 41.2049524727 ]
+			},
+			"properties" : {
+				"ID" : 224,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.163951963, 41.37657237 ]
+			},
+			"properties" : {
+				"ID" : 225,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.8278989334, 41.9850076325 ]
+			},
+			"properties" : {
+				"ID" : 226,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4364775983, 41.544768646 ]
+			},
+			"properties" : {
+				"ID" : 227,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1750537517, 41.3834513716 ]
+			},
+			"properties" : {
+				"ID" : 228,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4485590093, 41.5423935338 ]
+			},
+			"properties" : {
+				"ID" : 229,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3285813704, 41.4838354132 ]
+			},
+			"properties" : {
+				"ID" : 230,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.321929819, 41.48144908 ]
+			},
+			"properties" : {
+				"ID" : 231,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4510984051, 41.5418180445 ]
+			},
+			"properties" : {
+				"ID" : 232,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3974253169, 41.5090431149 ]
+			},
+			"properties" : {
+				"ID" : 233,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3057923237, 41.4821629077 ]
+			},
+			"properties" : {
+				"ID" : 234,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.448947538, 41.53976214 ]
+			},
+			"properties" : {
+				"ID" : 235,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3121098808, 41.4782811118 ]
+			},
+			"properties" : {
+				"ID" : 236,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1941116, 41.3850473 ]
+			},
+			"properties" : {
+				"ID" : 237,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3792798874, 41.5168050013 ]
+			},
+			"properties" : {
+				"ID" : 238,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1701278462, 41.3879470128 ]
+			},
+			"properties" : {
+				"ID" : 239,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3576644132, 41.4902102848 ]
+			},
+			"properties" : {
+				"ID" : 240,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.156931329, 41.39563044 ]
+			},
+			"properties" : {
+				"ID" : 241,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1767689915, 41.3853207188 ]
+			},
+			"properties" : {
+				"ID" : 242,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3185905024, 41.4813144421 ]
+			},
+			"properties" : {
+				"ID" : 243,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2334371136, 41.4307024296 ]
+			},
+			"properties" : {
+				"ID" : 244,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3125589521, 41.479609912 ]
+			},
+			"properties" : {
+				"ID" : 245,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1919846952, 41.3896307509 ]
+			},
+			"properties" : {
+				"ID" : 246,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.34923305, 41.4880753343 ]
+			},
+			"properties" : {
+				"ID" : 247,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3727042194, 41.495099642 ]
+			},
+			"properties" : {
+				"ID" : 248,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1702529, 41.3865979 ]
+			},
+			"properties" : {
+				"ID" : 249,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168237, 41.3859362 ]
+			},
+			"properties" : {
+				"ID" : 250,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3613107932, 41.4952408649 ]
+			},
+			"properties" : {
+				"ID" : 251,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1403671206, 41.3792684431 ]
+			},
+			"properties" : {
+				"ID" : 252,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.447107542, 41.5358015009 ]
+			},
+			"properties" : {
+				"ID" : 253,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354360618, 41.4915465893 ]
+			},
+			"properties" : {
+				"ID" : 254,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1693349, 41.3971108 ]
+			},
+			"properties" : {
+				"ID" : 255,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.43838554, 41.5344727386 ]
+			},
+			"properties" : {
+				"ID" : 256,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.17615664, 41.37605969 ]
+			},
+			"properties" : {
+				"ID" : 257,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354010291, 41.49040841 ]
+			},
+			"properties" : {
+				"ID" : 258,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3147677, 41.4805684 ]
+			},
+			"properties" : {
+				"ID" : 259,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.7394512551, 41.6465225685 ]
+			},
+			"properties" : {
+				"ID" : 260,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.7411953822, 41.6470023456 ]
+			},
+			"properties" : {
+				"ID" : 261,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.5744585547, 41.5900192301 ]
+			},
+			"properties" : {
+				"ID" : 262,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.830086408, 41.96295471 ]
+			},
+			"properties" : {
+				"ID" : 263,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6905240537, 41.6299830616 ]
+			},
+			"properties" : {
+				"ID" : 264,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1979787, 41.4010393 ]
+			},
+			"properties" : {
+				"ID" : 265,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6522036995, 41.6120767991 ]
+			},
+			"properties" : {
+				"ID" : 266,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6572380837, 41.6152938625 ]
+			},
+			"properties" : {
+				"ID" : 267,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.7360654306, 41.6495465359 ]
+			},
+			"properties" : {
+				"ID" : 268,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1677574, 41.3830834 ]
+			},
+			"properties" : {
+				"ID" : 269,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.488887445, 41.5588330682 ]
+			},
+			"properties" : {
+				"ID" : 270,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6242978479, 41.6019799398 ]
+			},
+			"properties" : {
+				"ID" : 271,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6958955009, 41.6259364206 ]
+			},
+			"properties" : {
+				"ID" : 272,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.7479433992, 41.6600255027 ]
+			},
+			"properties" : {
+				"ID" : 273,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.166283937, 41.38356707 ]
+			},
+			"properties" : {
+				"ID" : 274,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.5769130956, 41.5894872212 ]
+			},
+			"properties" : {
+				"ID" : 275,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6608918947, 41.6177008219 ]
+			},
+			"properties" : {
+				"ID" : 276,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1439534936, 41.4382483829 ]
+			},
+			"properties" : {
+				"ID" : 277,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4969036273, 41.5554325256 ]
+			},
+			"properties" : {
+				"ID" : 278,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4441668172, 41.5335327589 ]
+			},
+			"properties" : {
+				"ID" : 279,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.5474608176, 41.5808801158 ]
+			},
+			"properties" : {
+				"ID" : 280,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6715677537, 41.6197604715 ]
+			},
+			"properties" : {
+				"ID" : 281,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.658321459, 41.61381639 ]
+			},
+			"properties" : {
+				"ID" : 282,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6891985869, 41.6244809629 ]
+			},
+			"properties" : {
+				"ID" : 283,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1679046, 41.3941224 ]
+			},
+			"properties" : {
+				"ID" : 284,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.5528004633, 41.5827625994 ]
+			},
+			"properties" : {
+				"ID" : 285,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.579659106, 41.58888672 ]
+			},
+			"properties" : {
+				"ID" : 286,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6808565839, 41.619928462 ]
+			},
+			"properties" : {
+				"ID" : 287,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.575570314, 41.5864431237 ]
+			},
+			"properties" : {
+				"ID" : 288,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.067638926, 41.47895122 ]
+			},
+			"properties" : {
+				"ID" : 289,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.170112732, 41.39130734 ]
+			},
+			"properties" : {
+				"ID" : 290,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0940815086, 41.5586518106 ]
+			},
+			"properties" : {
+				"ID" : 291,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1004431094, 41.5425884028 ]
+			},
+			"properties" : {
+				"ID" : 292,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1643843, 41.3876228 ]
+			},
+			"properties" : {
+				"ID" : 293,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.112921822, 41.55151104 ]
+			},
+			"properties" : {
+				"ID" : 294,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1225155211, 41.5306726185 ]
+			},
+			"properties" : {
+				"ID" : 295,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.181557505, 41.3877613648 ]
+			},
+			"properties" : {
+				"ID" : 296,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1193702375, 41.5459903045 ]
+			},
+			"properties" : {
+				"ID" : 297,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0968544262, 41.5618522862 ]
+			},
+			"properties" : {
+				"ID" : 298,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.141714787, 41.4280988 ]
+			},
+			"properties" : {
+				"ID" : 299,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1723178, 41.384752 ]
+			},
+			"properties" : {
+				"ID" : 300,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1160897893, 41.5305722626 ]
+			},
+			"properties" : {
+				"ID" : 301,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.014320785, 41.57002158 ]
+			},
+			"properties" : {
+				"ID" : 302,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1137137645, 41.5292376154 ]
+			},
+			"properties" : {
+				"ID" : 303,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0883780456, 41.5496841248 ]
+			},
+			"properties" : {
+				"ID" : 304,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.173679, 41.3955702 ]
+			},
+			"properties" : {
+				"ID" : 305,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1035380243, 41.557165949 ]
+			},
+			"properties" : {
+				"ID" : 306,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9864357354, 41.2758454579 ]
+			},
+			"properties" : {
+				"ID" : 307,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0040369449, 41.5763024714 ]
+			},
+			"properties" : {
+				"ID" : 308,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.110933466, 41.55672877 ]
+			},
+			"properties" : {
+				"ID" : 309,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.019810679, 41.5709876012 ]
+			},
+			"properties" : {
+				"ID" : 310,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0541974395, 41.4800320408 ]
+			},
+			"properties" : {
+				"ID" : 311,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0888129395, 41.5673927148 ]
+			},
+			"properties" : {
+				"ID" : 312,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0413408333, 41.570327417 ]
+			},
+			"properties" : {
+				"ID" : 313,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1084684, 41.5463303 ]
+			},
+			"properties" : {
+				"ID" : 314,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0225349709, 41.5786069079 ]
+			},
+			"properties" : {
+				"ID" : 315,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.864237191, 41.671679 ]
+			},
+			"properties" : {
+				"ID" : 316,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9187420198, 41.5873087716 ]
+			},
+			"properties" : {
+				"ID" : 317,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1676339, 41.3872044 ]
+			},
+			"properties" : {
+				"ID" : 318,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1876814018, 41.5235564233 ]
+			},
+			"properties" : {
+				"ID" : 319,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1442971204, 41.384268868 ]
+			},
+			"properties" : {
+				"ID" : 320,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1853542955, 41.5195885816 ]
+			},
+			"properties" : {
+				"ID" : 321,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.16560657, 41.39545279 ]
+			},
+			"properties" : {
+				"ID" : 322,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2886347468, 41.6015988523 ]
+			},
+			"properties" : {
+				"ID" : 323,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.208033055, 41.40653095 ]
+			},
+			"properties" : {
+				"ID" : 324,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2948599562, 41.6069939707 ]
+			},
+			"properties" : {
+				"ID" : 325,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2800338816, 41.6137377261 ]
+			},
+			"properties" : {
+				"ID" : 326,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.171144701, 41.3896946557 ]
+			},
+			"properties" : {
+				"ID" : 327,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9866235, 41.2753847 ]
+			},
+			"properties" : {
+				"ID" : 328,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1888587, 41.3807789 ]
+			},
+			"properties" : {
+				"ID" : 329,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2070093871, 41.5355448548 ]
+			},
+			"properties" : {
+				"ID" : 330,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.202930581, 41.51545745 ]
+			},
+			"properties" : {
+				"ID" : 331,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.215983144, 41.53311911 ]
+			},
+			"properties" : {
+				"ID" : 332,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.203646939, 41.44315549 ]
+			},
+			"properties" : {
+				"ID" : 333,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2045863929, 41.5388337955 ]
+			},
+			"properties" : {
+				"ID" : 334,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2035768226, 41.5476389898 ]
+			},
+			"properties" : {
+				"ID" : 335,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.167219204, 41.38689236 ]
+			},
+			"properties" : {
+				"ID" : 336,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1243454, 41.3859291 ]
+			},
+			"properties" : {
+				"ID" : 337,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.291068628, 41.59973416 ]
+			},
+			"properties" : {
+				"ID" : 338,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2837899, 41.5947456 ]
+			},
+			"properties" : {
+				"ID" : 339,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4913526398, 41.6927124402 ]
+			},
+			"properties" : {
+				"ID" : 340,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1808342, 41.3805643 ]
+			},
+			"properties" : {
+				"ID" : 341,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3660860292, 41.6483917588 ]
+			},
+			"properties" : {
+				"ID" : 342,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1507707678, 41.3968197323 ]
+			},
+			"properties" : {
+				"ID" : 343,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2473133114, 41.9337550688 ]
+			},
+			"properties" : {
+				"ID" : 344,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2934268462, 41.6816191757 ]
+			},
+			"properties" : {
+				"ID" : 345,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1696362529, 41.3847246421 ]
+			},
+			"properties" : {
+				"ID" : 346,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2054147, 41.4430557 ]
+			},
+			"properties" : {
+				"ID" : 347,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1956300415, 41.5164843673 ]
+			},
+			"properties" : {
+				"ID" : 348,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1124430022, 41.3888130446 ]
+			},
+			"properties" : {
+				"ID" : 349,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2512766591, 41.5562991323 ]
+			},
+			"properties" : {
+				"ID" : 350,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.165334632, 41.39223851 ]
+			},
+			"properties" : {
+				"ID" : 351,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2463207027, 41.5520450542 ]
+			},
+			"properties" : {
+				"ID" : 352,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.194470285, 41.44536942 ]
+			},
+			"properties" : {
+				"ID" : 353,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2973764897, 41.6315069424 ]
+			},
+			"properties" : {
+				"ID" : 354,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.210198686, 41.53929588 ]
+			},
+			"properties" : {
+				"ID" : 355,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2212050232, 41.5595647146 ]
+			},
+			"properties" : {
+				"ID" : 356,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.251007, 41.9296537 ]
+			},
+			"properties" : {
+				"ID" : 357,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.297888687, 41.6277527312 ]
+			},
+			"properties" : {
+				"ID" : 358,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1607957, 41.3944773 ]
+			},
+			"properties" : {
+				"ID" : 359,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1515853, 41.3882318 ]
+			},
+			"properties" : {
+				"ID" : 360,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0902312, 41.3306097 ]
+			},
+			"properties" : {
+				"ID" : 361,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2281535863, 41.6010305186 ]
+			},
+			"properties" : {
+				"ID" : 362,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1585698, 41.3949101 ]
+			},
+			"properties" : {
+				"ID" : 363,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2455435079, 41.5507957821 ]
+			},
+			"properties" : {
+				"ID" : 364,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.128054994, 41.38766171 ]
+			},
+			"properties" : {
+				"ID" : 365,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2358465206, 41.5237112613 ]
+			},
+			"properties" : {
+				"ID" : 366,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1945474846, 41.5107438094 ]
+			},
+			"properties" : {
+				"ID" : 367,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1861141, 41.3852573 ]
+			},
+			"properties" : {
+				"ID" : 368,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7801561567, 41.4639114074 ]
+			},
+			"properties" : {
+				"ID" : 369,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.070901155, 41.47029281 ]
+			},
+			"properties" : {
+				"ID" : 370,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1700611021, 41.3871232282 ]
+			},
+			"properties" : {
+				"ID" : 371,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8556421865, 41.6306393161 ]
+			},
+			"properties" : {
+				"ID" : 372,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.834508, 41.740413 ]
+			},
+			"properties" : {
+				"ID" : 373,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.249207327, 41.93102602 ]
+			},
+			"properties" : {
+				"ID" : 374,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.229254984, 41.8493586917 ]
+			},
+			"properties" : {
+				"ID" : 375,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1491579, 41.3853296 ]
+			},
+			"properties" : {
+				"ID" : 376,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1858072686, 41.3999271791 ]
+			},
+			"properties" : {
+				"ID" : 377,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2098052794, 42.1093881164 ]
+			},
+			"properties" : {
+				"ID" : 378,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1831034107, 41.4364688541 ]
+			},
+			"properties" : {
+				"ID" : 379,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2166835164, 41.7969838596 ]
+			},
+			"properties" : {
+				"ID" : 380,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2865710855, 41.6114643815 ]
+			},
+			"properties" : {
+				"ID" : 381,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2316782406, 41.8590841488 ]
+			},
+			"properties" : {
+				"ID" : 382,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1044448852, 41.5598996352 ]
+			},
+			"properties" : {
+				"ID" : 383,
+				"entitat" : "punt desti"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1904965264, 41.3788523782 ]
+			},
+			"properties" : {
+				"ID" : 1,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.143151563, 41.37971148 ]
+			},
+			"properties" : {
+				"ID" : 2,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1879660749, 41.3791545682 ]
+			},
+			"properties" : {
+				"ID" : 3,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4856690627, 41.554173667 ]
+			},
+			"properties" : {
+				"ID" : 4,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.181871, 41.4931546 ]
+			},
+			"properties" : {
+				"ID" : 5,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1470068, 41.3783989 ]
+			},
+			"properties" : {
+				"ID" : 6,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9790198, 41.2793827 ]
+			},
+			"properties" : {
+				"ID" : 7,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1700091505, 41.4012827142 ]
+			},
+			"properties" : {
+				"ID" : 8,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1431476467, 41.3841722636 ]
+			},
+			"properties" : {
+				"ID" : 9,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1811742658, 41.4200081617 ]
+			},
+			"properties" : {
+				"ID" : 10,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1757437277, 41.3890552465 ]
+			},
+			"properties" : {
+				"ID" : 11,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1737475839, 41.3980984684 ]
+			},
+			"properties" : {
+				"ID" : 12,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0255492183, 41.3071034633 ]
+			},
+			"properties" : {
+				"ID" : 13,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1469863506, 41.3790871122 ]
+			},
+			"properties" : {
+				"ID" : 14,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1000064807, 41.363710379 ]
+			},
+			"properties" : {
+				"ID" : 15,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1421606949, 41.3831490251 ]
+			},
+			"properties" : {
+				"ID" : 16,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1448242928, 41.3751124129 ]
+			},
+			"properties" : {
+				"ID" : 17,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1386023945, 41.3707143801 ]
+			},
+			"properties" : {
+				"ID" : 18,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1163359, 41.5435531 ]
+			},
+			"properties" : {
+				"ID" : 19,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1795176, 41.3911775 ]
+			},
+			"properties" : {
+				"ID" : 20,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.127669306, 41.378773661 ]
+			},
+			"properties" : {
+				"ID" : 21,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1573354, 41.3757833 ]
+			},
+			"properties" : {
+				"ID" : 22,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0226854413, 41.4064987478 ]
+			},
+			"properties" : {
+				"ID" : 23,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1292782046, 41.3849603846 ]
+			},
+			"properties" : {
+				"ID" : 24,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1878741519, 41.4855706432 ]
+			},
+			"properties" : {
+				"ID" : 25,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.037056868, 41.31006651 ]
+			},
+			"properties" : {
+				"ID" : 26,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1588830948, 41.4009327903 ]
+			},
+			"properties" : {
+				"ID" : 27,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.13986754, 41.37916068 ]
+			},
+			"properties" : {
+				"ID" : 28,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1624659074, 41.429787931 ]
+			},
+			"properties" : {
+				"ID" : 29,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.105565668, 41.49861098 ]
+			},
+			"properties" : {
+				"ID" : 30,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1733804561, 41.4599048179 ]
+			},
+			"properties" : {
+				"ID" : 31,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1414081, 41.3816336 ]
+			},
+			"properties" : {
+				"ID" : 32,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.179358883, 41.4610202169 ]
+			},
+			"properties" : {
+				"ID" : 33,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1796067, 41.3921827 ]
+			},
+			"properties" : {
+				"ID" : 34,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1399659, 41.3822652 ]
+			},
+			"properties" : {
+				"ID" : 35,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1771950302, 41.4606897704 ]
+			},
+			"properties" : {
+				"ID" : 36,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1702334, 41.4028322 ]
+			},
+			"properties" : {
+				"ID" : 37,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1721696069, 41.4388277288 ]
+			},
+			"properties" : {
+				"ID" : 38,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1698509233, 41.4305137288 ]
+			},
+			"properties" : {
+				"ID" : 39,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1786265171, 41.4632464194 ]
+			},
+			"properties" : {
+				"ID" : 40,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1858175, 41.4256341 ]
+			},
+			"properties" : {
+				"ID" : 41,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0181386, 41.4125034 ]
+			},
+			"properties" : {
+				"ID" : 42,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1890926, 41.422924 ]
+			},
+			"properties" : {
+				"ID" : 43,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1011629, 41.3616973 ]
+			},
+			"properties" : {
+				"ID" : 44,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3568256, 41.489842 ]
+			},
+			"properties" : {
+				"ID" : 45,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1925570348, 41.4376463317 ]
+			},
+			"properties" : {
+				"ID" : 46,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1935606289, 41.4845578403 ]
+			},
+			"properties" : {
+				"ID" : 47,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1930894624, 41.4343305998 ]
+			},
+			"properties" : {
+				"ID" : 48,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.15022, 41.3935 ]
+			},
+			"properties" : {
+				"ID" : 49,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1835183303, 41.4326245609 ]
+			},
+			"properties" : {
+				"ID" : 50,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168568, 41.3873974 ]
+			},
+			"properties" : {
+				"ID" : 51,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1841430403, 41.4345384448 ]
+			},
+			"properties" : {
+				"ID" : 52,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1374978, 41.3844435 ]
+			},
+			"properties" : {
+				"ID" : 53,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1894673098, 41.4373822048 ]
+			},
+			"properties" : {
+				"ID" : 54,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1688369, 41.3992355 ]
+			},
+			"properties" : {
+				"ID" : 55,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1700611021, 41.3871232282 ]
+			},
+			"properties" : {
+				"ID" : 56,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1873981551, 41.4202224458 ]
+			},
+			"properties" : {
+				"ID" : 57,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1861453774, 41.4076161604 ]
+			},
+			"properties" : {
+				"ID" : 58,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0253842548, 41.3071709353 ]
+			},
+			"properties" : {
+				"ID" : 59,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1864758141, 41.4120318746 ]
+			},
+			"properties" : {
+				"ID" : 60,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.401657434, 41.50685088 ]
+			},
+			"properties" : {
+				"ID" : 61,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9866235, 41.2753847 ]
+			},
+			"properties" : {
+				"ID" : 62,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.077797296, 41.30328803 ]
+			},
+			"properties" : {
+				"ID" : 63,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2231871935, 41.4336596517 ]
+			},
+			"properties" : {
+				"ID" : 64,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.757353, 41.64570916 ]
+			},
+			"properties" : {
+				"ID" : 65,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2595188625, 41.4551057876 ]
+			},
+			"properties" : {
+				"ID" : 66,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168568, 41.3873974 ]
+			},
+			"properties" : {
+				"ID" : 67,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1403671206, 41.3792684431 ]
+			},
+			"properties" : {
+				"ID" : 68,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2423503506, 41.4583178555 ]
+			},
+			"properties" : {
+				"ID" : 69,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2548792664, 41.4553358818 ]
+			},
+			"properties" : {
+				"ID" : 70,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4429072474, 41.5451092804 ]
+			},
+			"properties" : {
+				"ID" : 71,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.284333497, 41.6018687 ]
+			},
+			"properties" : {
+				"ID" : 72,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2884645258, 41.4698885738 ]
+			},
+			"properties" : {
+				"ID" : 73,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1797937111, 41.3910231253 ]
+			},
+			"properties" : {
+				"ID" : 74,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2681848374, 41.467329193 ]
+			},
+			"properties" : {
+				"ID" : 75,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9532214602, 41.2653747526 ]
+			},
+			"properties" : {
+				"ID" : 76,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.084735818, 41.31906035 ]
+			},
+			"properties" : {
+				"ID" : 77,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1784532, 41.3894367 ]
+			},
+			"properties" : {
+				"ID" : 78,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9817016475, 41.2828305458 ]
+			},
+			"properties" : {
+				"ID" : 79,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0027461304, 41.30104603 ]
+			},
+			"properties" : {
+				"ID" : 80,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1892081, 41.3838092 ]
+			},
+			"properties" : {
+				"ID" : 81,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140529098, 41.37010164 ]
+			},
+			"properties" : {
+				"ID" : 82,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0027284211, 41.3080213218 ]
+			},
+			"properties" : {
+				"ID" : 83,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1766240874, 41.3939333664 ]
+			},
+			"properties" : {
+				"ID" : 84,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1885773, 41.4391552 ]
+			},
+			"properties" : {
+				"ID" : 85,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1652815876, 41.3920901714 ]
+			},
+			"properties" : {
+				"ID" : 86,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0077412579, 41.3050772182 ]
+			},
+			"properties" : {
+				"ID" : 87,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0950752539, 41.3294353382 ]
+			},
+			"properties" : {
+				"ID" : 88,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1323851, 41.380843 ]
+			},
+			"properties" : {
+				"ID" : 89,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1775329, 41.3746768 ]
+			},
+			"properties" : {
+				"ID" : 90,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0154330362, 41.3183728683 ]
+			},
+			"properties" : {
+				"ID" : 91,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1403671206, 41.3792684431 ]
+			},
+			"properties" : {
+				"ID" : 92,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.249846525, 41.45379512 ]
+			},
+			"properties" : {
+				"ID" : 93,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0662777778, 41.3588380605 ]
+			},
+			"properties" : {
+				"ID" : 94,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1744371, 41.386531 ]
+			},
+			"properties" : {
+				"ID" : 95,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0475809282, 41.3800171624 ]
+			},
+			"properties" : {
+				"ID" : 96,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.169711168, 41.38746967 ]
+			},
+			"properties" : {
+				"ID" : 97,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0519321097, 41.3867722612 ]
+			},
+			"properties" : {
+				"ID" : 98,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1515853, 41.3882318 ]
+			},
+			"properties" : {
+				"ID" : 99,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0472113898, 41.3781229366 ]
+			},
+			"properties" : {
+				"ID" : 100,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1423765, 41.3833345 ]
+			},
+			"properties" : {
+				"ID" : 101,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1710653895, 41.3876892377 ]
+			},
+			"properties" : {
+				"ID" : 102,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1423765, 41.3833345 ]
+			},
+			"properties" : {
+				"ID" : 103,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0529232479, 41.3840091922 ]
+			},
+			"properties" : {
+				"ID" : 104,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18502, 41.4280489 ]
+			},
+			"properties" : {
+				"ID" : 105,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0557292945, 41.3859832652 ]
+			},
+			"properties" : {
+				"ID" : 106,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1449247, 41.3783562 ]
+			},
+			"properties" : {
+				"ID" : 107,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0452868829, 41.3849186487 ]
+			},
+			"properties" : {
+				"ID" : 108,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1752406, 41.3875556 ]
+			},
+			"properties" : {
+				"ID" : 109,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0477530169, 41.3754739042 ]
+			},
+			"properties" : {
+				"ID" : 110,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3548314, 41.4886941 ]
+			},
+			"properties" : {
+				"ID" : 111,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6253008, 41.19218576 ]
+			},
+			"properties" : {
+				"ID" : 112,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.114558757, 41.33142245 ]
+			},
+			"properties" : {
+				"ID" : 113,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1072004009, 41.3600872253 ]
+			},
+			"properties" : {
+				"ID" : 114,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.272350554, 41.46352615 ]
+			},
+			"properties" : {
+				"ID" : 115,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0925063443, 41.3614969271 ]
+			},
+			"properties" : {
+				"ID" : 116,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1617175, 41.3868283 ]
+			},
+			"properties" : {
+				"ID" : 117,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.996808543, 41.39489237 ]
+			},
+			"properties" : {
+				"ID" : 118,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9630224037, 41.4277504656 ]
+			},
+			"properties" : {
+				"ID" : 119,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.077814726, 41.34763618 ]
+			},
+			"properties" : {
+				"ID" : 120,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0197685651, 41.4151264372 ]
+			},
+			"properties" : {
+				"ID" : 121,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0200648545, 41.415148048 ]
+			},
+			"properties" : {
+				"ID" : 122,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1515291, 41.3947667 ]
+			},
+			"properties" : {
+				"ID" : 123,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0157995467, 41.4086730597 ]
+			},
+			"properties" : {
+				"ID" : 124,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1403671206, 41.3792684431 ]
+			},
+			"properties" : {
+				"ID" : 125,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0177484409, 41.4126312478 ]
+			},
+			"properties" : {
+				"ID" : 126,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.172738, 41.3893149 ]
+			},
+			"properties" : {
+				"ID" : 127,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0123408292, 41.4162462156 ]
+			},
+			"properties" : {
+				"ID" : 128,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0162536166, 41.4080974052 ]
+			},
+			"properties" : {
+				"ID" : 129,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.018953313, 41.4191006674 ]
+			},
+			"properties" : {
+				"ID" : 130,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.423425267, 41.5323219 ]
+			},
+			"properties" : {
+				"ID" : 131,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0242349761, 41.4074396084 ]
+			},
+			"properties" : {
+				"ID" : 132,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1815871, 41.3820846 ]
+			},
+			"properties" : {
+				"ID" : 133,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.041945846, 41.3780493065 ]
+			},
+			"properties" : {
+				"ID" : 134,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9616605357, 41.4530322851 ]
+			},
+			"properties" : {
+				"ID" : 135,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1538335914, 41.3660045908 ]
+			},
+			"properties" : {
+				"ID" : 136,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.191507866, 41.43447529 ]
+			},
+			"properties" : {
+				"ID" : 137,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1898570179, 41.4807093645 ]
+			},
+			"properties" : {
+				"ID" : 138,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1761118, 41.3857956 ]
+			},
+			"properties" : {
+				"ID" : 139,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1765893516, 41.4949935026 ]
+			},
+			"properties" : {
+				"ID" : 140,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.140343931, 41.37920191 ]
+			},
+			"properties" : {
+				"ID" : 141,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1871113128, 41.4868573363 ]
+			},
+			"properties" : {
+				"ID" : 142,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1906372, 41.4049016 ]
+			},
+			"properties" : {
+				"ID" : 143,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1542443498, 41.4966363365 ]
+			},
+			"properties" : {
+				"ID" : 144,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1168294639, 41.5443070911 ]
+			},
+			"properties" : {
+				"ID" : 145,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1613100967, 41.4948205869 ]
+			},
+			"properties" : {
+				"ID" : 146,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.14710132, 41.3839323527 ]
+			},
+			"properties" : {
+				"ID" : 147,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1220799298, 41.5252635475 ]
+			},
+			"properties" : {
+				"ID" : 148,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1211004163, 41.513609095 ]
+			},
+			"properties" : {
+				"ID" : 149,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1973330414, 41.3867094349 ]
+			},
+			"properties" : {
+				"ID" : 150,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1253611138, 41.5199642515 ]
+			},
+			"properties" : {
+				"ID" : 151,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.161611233, 41.39233949 ]
+			},
+			"properties" : {
+				"ID" : 152,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1224631113, 41.5147694635 ]
+			},
+			"properties" : {
+				"ID" : 153,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1320201555, 41.4950162542 ]
+			},
+			"properties" : {
+				"ID" : 154,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2941820343, 41.7258622621 ]
+			},
+			"properties" : {
+				"ID" : 155,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1491255336, 41.4940444593 ]
+			},
+			"properties" : {
+				"ID" : 156,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.098748021, 41.5501249822 ]
+			},
+			"properties" : {
+				"ID" : 157,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1469564416, 41.494462185 ]
+			},
+			"properties" : {
+				"ID" : 158,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.111655728, 41.50793325 ]
+			},
+			"properties" : {
+				"ID" : 159,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1520604548, 41.4845617609 ]
+			},
+			"properties" : {
+				"ID" : 160,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1419831617, 41.4872493104 ]
+			},
+			"properties" : {
+				"ID" : 161,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1440794461, 41.4915553988 ]
+			},
+			"properties" : {
+				"ID" : 162,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.169986371, 41.38796292 ]
+			},
+			"properties" : {
+				"ID" : 163,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.143822752, 41.4938001893 ]
+			},
+			"properties" : {
+				"ID" : 164,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1159747071, 41.5467099702 ]
+			},
+			"properties" : {
+				"ID" : 165,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1700626422, 41.3855110796 ]
+			},
+			"properties" : {
+				"ID" : 166,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7041265714, 41.3412066915 ]
+			},
+			"properties" : {
+				"ID" : 167,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1885311188, 41.3696075839 ]
+			},
+			"properties" : {
+				"ID" : 168,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7066146255, 41.3383134269 ]
+			},
+			"properties" : {
+				"ID" : 169,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.061601932, 41.3674578 ]
+			},
+			"properties" : {
+				"ID" : 170,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6945409831, 41.3402574621 ]
+			},
+			"properties" : {
+				"ID" : 171,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.5368985, 41.2196322 ]
+			},
+			"properties" : {
+				"ID" : 172,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6974984121, 41.3380046515 ]
+			},
+			"properties" : {
+				"ID" : 173,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.803761659, 41.40832308 ]
+			},
+			"properties" : {
+				"ID" : 174,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6936299928, 41.3425577744 ]
+			},
+			"properties" : {
+				"ID" : 175,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.146320898, 41.39676095 ]
+			},
+			"properties" : {
+				"ID" : 176,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7010959595, 41.3550724097 ]
+			},
+			"properties" : {
+				"ID" : 177,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7010959595, 41.3550724097 ]
+			},
+			"properties" : {
+				"ID" : 178,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7821510083, 41.4215448075 ]
+			},
+			"properties" : {
+				"ID" : 179,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7686445923, 41.3921155122 ]
+			},
+			"properties" : {
+				"ID" : 180,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.523203042, 41.2141475 ]
+			},
+			"properties" : {
+				"ID" : 181,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0077009, 41.2958329 ]
+			},
+			"properties" : {
+				"ID" : 182,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7024541204, 41.4536438171 ]
+			},
+			"properties" : {
+				"ID" : 183,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.623073096, 41.58206169 ]
+			},
+			"properties" : {
+				"ID" : 184,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8518065657, 41.4235249616 ]
+			},
+			"properties" : {
+				"ID" : 185,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7165977894, 41.3767564566 ]
+			},
+			"properties" : {
+				"ID" : 186,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.723716624, 41.22580977 ]
+			},
+			"properties" : {
+				"ID" : 187,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.804020158, 41.24216422 ]
+			},
+			"properties" : {
+				"ID" : 188,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.201818234, 41.40074788 ]
+			},
+			"properties" : {
+				"ID" : 189,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.09957835, 41.32752141 ]
+			},
+			"properties" : {
+				"ID" : 190,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8153776203, 41.2369423328 ]
+			},
+			"properties" : {
+				"ID" : 191,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.724942115, 41.22271764 ]
+			},
+			"properties" : {
+				"ID" : 192,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9038744007, 41.2553416546 ]
+			},
+			"properties" : {
+				"ID" : 193,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9757722125, 41.2765640963 ]
+			},
+			"properties" : {
+				"ID" : 194,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8050448526, 41.2387353195 ]
+			},
+			"properties" : {
+				"ID" : 195,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.146365, 41.3930875 ]
+			},
+			"properties" : {
+				"ID" : 196,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8090173787, 41.241478241 ]
+			},
+			"properties" : {
+				"ID" : 197,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8090552628, 41.2364877078 ]
+			},
+			"properties" : {
+				"ID" : 198,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7281352, 41.2270068 ]
+			},
+			"properties" : {
+				"ID" : 199,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.202452974, 41.44487743 ]
+			},
+			"properties" : {
+				"ID" : 200,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7182994171, 41.2185889414 ]
+			},
+			"properties" : {
+				"ID" : 201,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.723508352, 41.2148665528 ]
+			},
+			"properties" : {
+				"ID" : 202,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7214671296, 41.2234150556 ]
+			},
+			"properties" : {
+				"ID" : 203,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.167856154, 41.3928545818 ]
+			},
+			"properties" : {
+				"ID" : 204,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7206628643, 41.219443439 ]
+			},
+			"properties" : {
+				"ID" : 205,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7354909056, 41.2179195694 ]
+			},
+			"properties" : {
+				"ID" : 206,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.249192776, 41.1236807 ]
+			},
+			"properties" : {
+				"ID" : 207,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7174104293, 41.2240514414 ]
+			},
+			"properties" : {
+				"ID" : 208,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7194642138, 41.2197572198 ]
+			},
+			"properties" : {
+				"ID" : 209,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.808608153, 41.2389446809 ]
+			},
+			"properties" : {
+				"ID" : 210,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7324986426, 41.2240348313 ]
+			},
+			"properties" : {
+				"ID" : 211,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1649543818, 41.3917375301 ]
+			},
+			"properties" : {
+				"ID" : 212,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6834461512, 41.2044966824 ]
+			},
+			"properties" : {
+				"ID" : 213,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6774583023, 41.2152367271 ]
+			},
+			"properties" : {
+				"ID" : 214,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.169976834, 41.3878455 ]
+			},
+			"properties" : {
+				"ID" : 215,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6623327444, 41.22652358 ]
+			},
+			"properties" : {
+				"ID" : 216,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.027058718, 41.30976279 ]
+			},
+			"properties" : {
+				"ID" : 217,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6705767149, 41.2208891752 ]
+			},
+			"properties" : {
+				"ID" : 218,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.480442681, 41.16816548 ]
+			},
+			"properties" : {
+				"ID" : 219,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6753752808, 41.2111680349 ]
+			},
+			"properties" : {
+				"ID" : 220,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7255864, 41.2284372 ]
+			},
+			"properties" : {
+				"ID" : 221,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6753752808, 41.2111680349 ]
+			},
+			"properties" : {
+				"ID" : 222,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6774016, 41.2049524727 ]
+			},
+			"properties" : {
+				"ID" : 223,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.725845125, 41.2224314053 ]
+			},
+			"properties" : {
+				"ID" : 224,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.6800898894, 41.2025824618 ]
+			},
+			"properties" : {
+				"ID" : 225,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4364775983, 41.544768646 ]
+			},
+			"properties" : {
+				"ID" : 226,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.8278989334, 41.9850076325 ]
+			},
+			"properties" : {
+				"ID" : 227,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4425263, 41.5370857 ]
+			},
+			"properties" : {
+				"ID" : 228,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2304099709, 41.424378471 ]
+			},
+			"properties" : {
+				"ID" : 229,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4477804705, 41.5398371902 ]
+			},
+			"properties" : {
+				"ID" : 230,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.247294514, 41.44876219 ]
+			},
+			"properties" : {
+				"ID" : 231,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.163975426, 41.38581106 ]
+			},
+			"properties" : {
+				"ID" : 232,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4440923453, 41.5408077384 ]
+			},
+			"properties" : {
+				"ID" : 233,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.434146623, 41.5281311 ]
+			},
+			"properties" : {
+				"ID" : 234,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3121098808, 41.4782811118 ]
+			},
+			"properties" : {
+				"ID" : 235,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.448947538, 41.53976214 ]
+			},
+			"properties" : {
+				"ID" : 236,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3724760794, 41.5203961516 ]
+			},
+			"properties" : {
+				"ID" : 237,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1941116, 41.3850473 ]
+			},
+			"properties" : {
+				"ID" : 238,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3576644132, 41.4902102848 ]
+			},
+			"properties" : {
+				"ID" : 239,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1701278462, 41.3879470128 ]
+			},
+			"properties" : {
+				"ID" : 240,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3230324328, 41.4814173153 ]
+			},
+			"properties" : {
+				"ID" : 241,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3185905024, 41.4813144421 ]
+			},
+			"properties" : {
+				"ID" : 242,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1767689915, 41.3853207188 ]
+			},
+			"properties" : {
+				"ID" : 243,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3125589521, 41.479609912 ]
+			},
+			"properties" : {
+				"ID" : 244,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2334371136, 41.4307024296 ]
+			},
+			"properties" : {
+				"ID" : 245,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.34923305, 41.4880753343 ]
+			},
+			"properties" : {
+				"ID" : 246,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1919846952, 41.3896307509 ]
+			},
+			"properties" : {
+				"ID" : 247,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1864777, 41.4072608 ]
+			},
+			"properties" : {
+				"ID" : 248,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3477479825, 41.4876711371 ]
+			},
+			"properties" : {
+				"ID" : 249,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3613107932, 41.4952408649 ]
+			},
+			"properties" : {
+				"ID" : 250,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.168237, 41.3859362 ]
+			},
+			"properties" : {
+				"ID" : 251,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3541806554, 41.4916445792 ]
+			},
+			"properties" : {
+				"ID" : 252,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354360618, 41.4915465893 ]
+			},
+			"properties" : {
+				"ID" : 253,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.447107542, 41.5358015009 ]
+			},
+			"properties" : {
+				"ID" : 254,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3531391762, 41.4903893015 ]
+			},
+			"properties" : {
+				"ID" : 255,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3543763905, 41.4900183927 ]
+			},
+			"properties" : {
+				"ID" : 256,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3164764528, 41.4809413682 ]
+			},
+			"properties" : {
+				"ID" : 257,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.32139022, 41.48136582 ]
+			},
+			"properties" : {
+				"ID" : 258,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.354010291, 41.49040841 ]
+			},
+			"properties" : {
+				"ID" : 259,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1328502, 41.4114449 ]
+			},
+			"properties" : {
+				"ID" : 260,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.5744585547, 41.5900192301 ]
+			},
+			"properties" : {
+				"ID" : 261,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.7411953822, 41.6470023456 ]
+			},
+			"properties" : {
+				"ID" : 262,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6905240537, 41.6299830616 ]
+			},
+			"properties" : {
+				"ID" : 263,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.830086408, 41.96295471 ]
+			},
+			"properties" : {
+				"ID" : 264,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6522036995, 41.6120767991 ]
+			},
+			"properties" : {
+				"ID" : 265,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1979787, 41.4010393 ]
+			},
+			"properties" : {
+				"ID" : 266,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.7360654306, 41.6495465359 ]
+			},
+			"properties" : {
+				"ID" : 267,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6572380837, 41.6152938625 ]
+			},
+			"properties" : {
+				"ID" : 268,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.488887445, 41.5588330682 ]
+			},
+			"properties" : {
+				"ID" : 269,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1677574, 41.3830834 ]
+			},
+			"properties" : {
+				"ID" : 270,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6958955009, 41.6259364206 ]
+			},
+			"properties" : {
+				"ID" : 271,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6242978479, 41.6019799398 ]
+			},
+			"properties" : {
+				"ID" : 272,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.528288048, 41.61826348 ]
+			},
+			"properties" : {
+				"ID" : 273,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.5769130956, 41.5894872212 ]
+			},
+			"properties" : {
+				"ID" : 274,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.166283937, 41.38356707 ]
+			},
+			"properties" : {
+				"ID" : 275,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.5748845674, 41.5902075271 ]
+			},
+			"properties" : {
+				"ID" : 276,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.5783334694, 41.5935887705 ]
+			},
+			"properties" : {
+				"ID" : 277,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.574479736, 41.58482205 ]
+			},
+			"properties" : {
+				"ID" : 278,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.5474608176, 41.5808801158 ]
+			},
+			"properties" : {
+				"ID" : 279,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4441668172, 41.5335327589 ]
+			},
+			"properties" : {
+				"ID" : 280,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.163267703, 41.39313669 ]
+			},
+			"properties" : {
+				"ID" : 281,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6891985869, 41.6244809629 ]
+			},
+			"properties" : {
+				"ID" : 282,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.658321459, 41.61381639 ]
+			},
+			"properties" : {
+				"ID" : 283,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.5528004633, 41.5827625994 ]
+			},
+			"properties" : {
+				"ID" : 284,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1679046, 41.3941224 ]
+			},
+			"properties" : {
+				"ID" : 285,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.6808565839, 41.619928462 ]
+			},
+			"properties" : {
+				"ID" : 286,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.579659106, 41.58888672 ]
+			},
+			"properties" : {
+				"ID" : 287,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2165204261, 41.4099433304 ]
+			},
+			"properties" : {
+				"ID" : 288,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0351832, 41.4903873 ]
+			},
+			"properties" : {
+				"ID" : 289,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1083918107, 41.5537972169 ]
+			},
+			"properties" : {
+				"ID" : 290,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.18190894, 41.49689542 ]
+			},
+			"properties" : {
+				"ID" : 291,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1147582564, 41.5415003444 ]
+			},
+			"properties" : {
+				"ID" : 292,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.112921822, 41.55151104 ]
+			},
+			"properties" : {
+				"ID" : 293,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1643843, 41.3876228 ]
+			},
+			"properties" : {
+				"ID" : 294,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.015419, 41.5548736 ]
+			},
+			"properties" : {
+				"ID" : 295,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1193702375, 41.5459903045 ]
+			},
+			"properties" : {
+				"ID" : 296,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.181557505, 41.3877613648 ]
+			},
+			"properties" : {
+				"ID" : 297,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1164028, 41.5462735 ]
+			},
+			"properties" : {
+				"ID" : 298,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1160897893, 41.5305722626 ]
+			},
+			"properties" : {
+				"ID" : 299,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1160897893, 41.5305722626 ]
+			},
+			"properties" : {
+				"ID" : 300,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1723178, 41.384752 ]
+			},
+			"properties" : {
+				"ID" : 301,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1137137645, 41.5292376154 ]
+			},
+			"properties" : {
+				"ID" : 302,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.014320785, 41.57002158 ]
+			},
+			"properties" : {
+				"ID" : 303,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.138217, 41.3818687 ]
+			},
+			"properties" : {
+				"ID" : 304,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1035380243, 41.557165949 ]
+			},
+			"properties" : {
+				"ID" : 305,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.173679, 41.3955702 ]
+			},
+			"properties" : {
+				"ID" : 306,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0040369449, 41.5763024714 ]
+			},
+			"properties" : {
+				"ID" : 307,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9864357354, 41.2758454579 ]
+			},
+			"properties" : {
+				"ID" : 308,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.019810679, 41.5709876012 ]
+			},
+			"properties" : {
+				"ID" : 309,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.110933466, 41.55672877 ]
+			},
+			"properties" : {
+				"ID" : 310,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0050141604, 41.5797259005 ]
+			},
+			"properties" : {
+				"ID" : 311,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0413408333, 41.570327417 ]
+			},
+			"properties" : {
+				"ID" : 312,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0888129395, 41.5673927148 ]
+			},
+			"properties" : {
+				"ID" : 313,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0225349709, 41.5786069079 ]
+			},
+			"properties" : {
+				"ID" : 314,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1084684, 41.5463303 ]
+			},
+			"properties" : {
+				"ID" : 315,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.9187420198, 41.5873087716 ]
+			},
+			"properties" : {
+				"ID" : 316,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.864237191, 41.671679 ]
+			},
+			"properties" : {
+				"ID" : 317,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1876814018, 41.5235564233 ]
+			},
+			"properties" : {
+				"ID" : 318,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1676339, 41.3872044 ]
+			},
+			"properties" : {
+				"ID" : 319,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1853542955, 41.5195885816 ]
+			},
+			"properties" : {
+				"ID" : 320,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1442971204, 41.384268868 ]
+			},
+			"properties" : {
+				"ID" : 321,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2886347468, 41.6015988523 ]
+			},
+			"properties" : {
+				"ID" : 322,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.16560657, 41.39545279 ]
+			},
+			"properties" : {
+				"ID" : 323,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2948599562, 41.6069939707 ]
+			},
+			"properties" : {
+				"ID" : 324,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.208033055, 41.40653095 ]
+			},
+			"properties" : {
+				"ID" : 325,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2042988, 41.4026251 ]
+			},
+			"properties" : {
+				"ID" : 326,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2905768966, 41.6055076961 ]
+			},
+			"properties" : {
+				"ID" : 327,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2190391988, 41.5433233715 ]
+			},
+			"properties" : {
+				"ID" : 328,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2070093871, 41.5355448548 ]
+			},
+			"properties" : {
+				"ID" : 329,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1888587, 41.3807789 ]
+			},
+			"properties" : {
+				"ID" : 330,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.215983144, 41.53311911 ]
+			},
+			"properties" : {
+				"ID" : 331,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.202930581, 41.51545745 ]
+			},
+			"properties" : {
+				"ID" : 332,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.203377945, 41.55053064 ]
+			},
+			"properties" : {
+				"ID" : 333,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.198174732, 41.44096893 ]
+			},
+			"properties" : {
+				"ID" : 334,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.106366837, 41.50250091 ]
+			},
+			"properties" : {
+				"ID" : 335,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2035768226, 41.5476389898 ]
+			},
+			"properties" : {
+				"ID" : 336,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2159097939, 41.5387359215 ]
+			},
+			"properties" : {
+				"ID" : 337,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.361438746, 41.6318689 ]
+			},
+			"properties" : {
+				"ID" : 338,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.4913526398, 41.6927124402 ]
+			},
+			"properties" : {
+				"ID" : 339,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2837899, 41.5947456 ]
+			},
+			"properties" : {
+				"ID" : 340,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.3660860292, 41.6483917588 ]
+			},
+			"properties" : {
+				"ID" : 341,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1808342, 41.3805643 ]
+			},
+			"properties" : {
+				"ID" : 342,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.53063929, 41.7172716057 ]
+			},
+			"properties" : {
+				"ID" : 343,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2934268462, 41.6816191757 ]
+			},
+			"properties" : {
+				"ID" : 344,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2473133114, 41.9337550688 ]
+			},
+			"properties" : {
+				"ID" : 345,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2238292768, 41.5309727561 ]
+			},
+			"properties" : {
+				"ID" : 346,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1956300415, 41.5164843673 ]
+			},
+			"properties" : {
+				"ID" : 347,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2054147, 41.4430557 ]
+			},
+			"properties" : {
+				"ID" : 348,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2512766591, 41.5562991323 ]
+			},
+			"properties" : {
+				"ID" : 349,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1604625, 41.3951583 ]
+			},
+			"properties" : {
+				"ID" : 350,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2463207027, 41.5520450542 ]
+			},
+			"properties" : {
+				"ID" : 351,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.165334632, 41.39223851 ]
+			},
+			"properties" : {
+				"ID" : 352,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2973764897, 41.6315069424 ]
+			},
+			"properties" : {
+				"ID" : 353,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.194470285, 41.44536942 ]
+			},
+			"properties" : {
+				"ID" : 354,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2212050232, 41.5595647146 ]
+			},
+			"properties" : {
+				"ID" : 355,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.210198686, 41.53929588 ]
+			},
+			"properties" : {
+				"ID" : 356,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.297888687, 41.6277527312 ]
+			},
+			"properties" : {
+				"ID" : 357,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.251007, 41.9296537 ]
+			},
+			"properties" : {
+				"ID" : 358,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2878095014, 41.6835250073 ]
+			},
+			"properties" : {
+				"ID" : 359,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2281535863, 41.6010305186 ]
+			},
+			"properties" : {
+				"ID" : 360,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1515853, 41.3882318 ]
+			},
+			"properties" : {
+				"ID" : 361,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.164914854, 41.39174319 ]
+			},
+			"properties" : {
+				"ID" : 362,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2455435079, 41.5507957821 ]
+			},
+			"properties" : {
+				"ID" : 363,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1585698, 41.3949101 ]
+			},
+			"properties" : {
+				"ID" : 364,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2358465206, 41.5237112613 ]
+			},
+			"properties" : {
+				"ID" : 365,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.135131439, 41.38965302 ]
+			},
+			"properties" : {
+				"ID" : 366,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1630985, 41.3951383 ]
+			},
+			"properties" : {
+				"ID" : 367,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.7801561567, 41.4639114074 ]
+			},
+			"properties" : {
+				"ID" : 368,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1861141, 41.3852573 ]
+			},
+			"properties" : {
+				"ID" : 369,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8428713017, 41.721987297 ]
+			},
+			"properties" : {
+				"ID" : 370,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8556421865, 41.6306393161 ]
+			},
+			"properties" : {
+				"ID" : 371,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1700611021, 41.3871232282 ]
+			},
+			"properties" : {
+				"ID" : 372,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 1.8671138422, 41.6696110587 ]
+			},
+			"properties" : {
+				"ID" : 373,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.229254984, 41.8493586917 ]
+			},
+			"properties" : {
+				"ID" : 374,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.249207327, 41.93102602 ]
+			},
+			"properties" : {
+				"ID" : 375,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2346899322, 41.8130823629 ]
+			},
+			"properties" : {
+				"ID" : 376,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2098052794, 42.1093881164 ]
+			},
+			"properties" : {
+				"ID" : 377,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1867397521, 41.3858593449 ]
+			},
+			"properties" : {
+				"ID" : 378,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2166835164, 41.7969838596 ]
+			},
+			"properties" : {
+				"ID" : 379,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1831034107, 41.4364688541 ]
+			},
+			"properties" : {
+				"ID" : 380,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2316782406, 41.8590841488 ]
+			},
+			"properties" : {
+				"ID" : 381,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.2865710855, 41.6114643815 ]
+			},
+			"properties" : {
+				"ID" : 382,
+				"entitat" : "punt origen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.0111780999, 41.5620266513 ]
+			},
+			"properties" : {
+				"ID" : 383,
+				"entitat" : "punt origen"
+			}
+		}
+	]
+}
